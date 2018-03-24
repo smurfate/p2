@@ -1,0 +1,5 @@
+include ':zlib', ':player', ':player-hls', ':player-smoothstreaming', ':player-ui', ':player-core', ':player-dash'
+include ':page_indecator_library'
+include ':view_pager_lib'
+include ':mp3Ready'
+include ':andTinder'

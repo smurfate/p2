@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-4.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/andTinder" />
+            <option value="$PROJECT_DIR$/mp3Ready" />
+            <option value="$PROJECT_DIR$/page_indecator_library" />
+            <option value="$PROJECT_DIR$/player" />
+            <option value="$PROJECT_DIR$/player-core" />
+            <option value="$PROJECT_DIR$/player-dash" />
+            <option value="$PROJECT_DIR$/player-hls" />
+            <option value="$PROJECT_DIR$/player-smoothstreaming" />
+            <option value="$PROJECT_DIR$/player-ui" />
+            <option value="$PROJECT_DIR$/view_pager_lib" />
+            <option value="$PROJECT_DIR$/zlib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

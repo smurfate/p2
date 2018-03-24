@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">true</bool>
+    <bool name="pagger_shouldexpand">false</bool>
+    <dimen name="grid_margin">110dp</dimen>
+    <dimen name="login_container_margin">200dp</dimen>
+    <integer name="apps_gridview_columns">6</integer>
+    <integer name="apps_gridview_columns_list">4</integer>
+    <integer name="similar_songs_gridview_columns">4</integer>
+</resources>

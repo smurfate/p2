@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" 
+    android:layout_width="match_parent"
+    android:background="@color/light_gray"
+    android:layout_height="wrap_content"
+    >
+    
+    <ProgressBar 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_loading"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        
+        
+        />
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_loading"
+        android:visibility="gone"
+        android:text="no playlists found"
+        android:layout_centerInParent="true"
+        android:textColor="@color/dark_blue"
+        />  
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_alignParentTop="true"
+            >
+<TextView android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select a playlist"
+        android:id="@+id/tv_header_title"
+        android:layout_margin="15dp"
+        
+        android:textSize="22sp"      
+        android:textColor="@color/dark_blue" />
+
+<View android:layout_width="match_parent"
+    android:layout_height="2dp"
+    
+    android:background="@color/dark_blue"/>
+
+  
+  
+  
+  <EditText android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:id="@+id/new_pl_name"
+      android:visibility="gone"
+        
+        android:layout_margin="10dp"/>
+	<ListView 
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/select_create_pl_list_h"
+        android:id="@+id/list_sc_pl"
+        
+        android:visibility="visible"
+        
+        android:layout_margin="5dp"
+        android:dividerHeight="0dp">
+    </ListView>
+    <Button android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btn_submit"
+       	 
+        android:text="New PlayList"/>
+    
+    
+    </LinearLayout>
+    </RelativeLayout>

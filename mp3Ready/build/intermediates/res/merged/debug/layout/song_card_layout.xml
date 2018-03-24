@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="wrap_content"
+    android:layout_height="@dimen/full_player_song_cover_height"
+    android:orientation="vertical"
+    android:background="#0A0A2A"
+    android:gravity="center_horizontal"
+     xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <RelativeLayout 
+        android:layout_width="@dimen/full_player_song_cover_height"
+        android:layout_height="wrap_content">
+        
+        <ImageView android:layout_width="@dimen/full_player_song_cover_height"
+            android:layout_height="@dimen/full_player_song_cover_height"
+            android:id="@+id/song_card_cover"
+            android:adjustViewBounds="true"
+            android:scaleType="fitCenter"
+            android:layout_centerInParent="true"
+            android:src="@drawable/default_song_cover"/>
+         <ImageView android:layout_width="wrap_content"
+                        
+                        android:layout_height="wrap_content"
+                        android:id="@+id/song_card_unlove"
+                        android:adjustViewBounds="true"
+                        android:visibility="gone"
+                        android:scaleType="fitCenter"
+                        android:layout_alignParentRight="true"
+                        android:src="@drawable/unlove_circle_onboarding_tinder"/>
+         
+         <ImageView android:layout_width="wrap_content"
+                        
+                        android:layout_height="wrap_content"
+                        android:id="@+id/song_card_love"
+                        android:adjustViewBounds="true"
+                        android:layout_alignParentLeft="true"
+                        android:scaleType="fitCenter"
+                        android:visibility="gone"
+                        android:src="@drawable/love_circle_onboarding_tinder"/>
+         <ImageView android:layout_width="wrap_content"
+                        
+                        android:layout_height="wrap_content"
+                        android:id="@+id/song_card_play_pause"
+                        android:adjustViewBounds="true"
+                        android:layout_marginLeft="10dp"
+                        android:scaleType="fitCenter"
+                        android:layout_marginTop="10dp"
+                        android:src="@drawable/play_circle_light_onboarding_tinder"/>
+         <LinearLayout android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center_horizontal|center_vertical"
+	        android:layout_alignParentBottom="true"
+	        android:background="#80000000"
+	        android:orientation="horizontal">
+        	<TextView android:layout_width="match_parent"
+        	    android:layout_height="wrap_content"
+        	    android:textSize="20sp"
+        	    android:text="Song name"
+        	    android:gravity="center_horizontal"
+        	    android:textColor="@color/white"
+        	    android:id="@+id/song_card_name"/>
+    		</LinearLayout>
+        
+    </RelativeLayout>
+    
+    
+</LinearLayout>

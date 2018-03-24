@@ -1,0 +1,24 @@
+<resources>
+
+    <!--
+         Customize dimensions originally defined in res/values/dimens.xml (such as
+         screen margins) for sw720dp devices (e.g. 10" tablets) in landscape here.
+    -->
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+<dimen name="main_menu_min_height">300dp</dimen>
+<dimen name="lecture_cell_width">45dp</dimen>
+<dimen name="subject_cell_width">160dp</dimen>
+<dimen name="doc_cell_width">160dp</dimen>
+<dimen name="i_subject_cell_width">220dp</dimen>
+<dimen name="news_icon_imgslider">400dp</dimen>
+<dimen name="news_cover_h">300dp</dimen>
+<!--<dimen name="i_subject_cell_height">40dp</dimen>-->
+	<!--<dimen name="lecture_cell_height">40dp</dimen>-->
+	<!--<dimen name="i_subject_cell_height">80dp</dimen>-->
+	<!--<dimen name="lecture_cell_height">80dp</dimen>-->
+	<dimen name="about_us_txt_size">22sp</dimen>
+	<dimen name="drawer_width">700dp</dimen>
+	<dimen name="drawer_item_height">18dp</dimen>
+	
+	<dimen name="full_player_song_cover_height">400dp</dimen>
+</resources>

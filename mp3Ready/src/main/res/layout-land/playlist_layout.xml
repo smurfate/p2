@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" 
+    android:layout_width="match_parent"
+    android:background="@color/light_gray"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:weightSum="100"
+    >
+    
+  
+        
+        <RelativeLayout android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="match_parent"
+            android:id="@+id/pl_info_rl"
+            >
+        
+       <ImageView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="fitXY"
+            android:id="@+id/iv_pl_cover"
+            android:src="@drawable/grid_default_cover_playlist"/>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/playlist_name"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="10dp"
+            android:text=""/>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/playlist_tracks_num"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginBottom="10dp"
+            android:layout_marginRight="10dp"
+            android:text=""/>
+       
+        </RelativeLayout>
+        <RelativeLayout android:layout_width="0dp"
+            android:layout_weight="50"
+            android:layout_height="match_parent">
+          <ProgressBar 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_loading"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        
+        
+        />  
+     
+   
+ 
+   <ProgressBar 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_load_more"
+        android:visibility="gone"
+        android:layout_above="@id/btn_next_tinder"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        
+        />  
+        <RelativeLayout android:layout_width="match_parent"
+            
+            android:layout_height="match_parent"
+            android:layout_above="@id/pb_load_more"
+            android:minHeight="100dp"
+            android:id="@+id/playlist_songs_rl"
+            
+            >
+	<GridView 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/list"
+        
+        android:layout_margin="5dp"
+        
+        
+        android:numColumns="1"
+        android:verticalSpacing="5dp"
+    android:horizontalSpacing="0dp"
+    android:stretchMode="columnWidth"
+        android:dividerHeight="1dp">
+    </GridView>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_loading"
+        android:visibility="gone"
+        android:text="no songs found"
+        
+        android:layout_centerInParent="true"
+        android:textColor="@color/dark_blue"
+        />
+    
+    </RelativeLayout>
+    </RelativeLayout>
+    </LinearLayout>

@@ -1,0 +1,40 @@
+<!--
+ 		NORMAL
+-->
+
+<resources>
+	 
+	 <!--<dimen name="home_item">500dp</dimen>-->
+    <!--<dimen name="home_splash_h">250dp</dimen>-->
+    <!--<dimen name="home_icon_h">125dp</dimen>-->
+    <dimen name="news_cover_h">200dp</dimen>
+    <dimen name="sliding_up_panel_height">220dp</dimen>
+    <dimen name="news_icon_imgslider">260dp</dimen>
+    <dimen name="video_thumb__width">180dp</dimen>
+    <dimen name="video_thumb__height">130dp</dimen>
+    <dimen name="login_logo_height">200dp</dimen>
+    <dimen name="confirmed_task_worker_tab">200dp</dimen>
+    <dimen name="confirme_worker_customer_tab">150dp</dimen>
+    <dimen name="main_menu_min_height">130dp</dimen>
+    <dimen name="lecture_cell_width">20dp</dimen>
+    <dimen name="subject_cell_width">100dp</dimen>
+    <dimen name="doc_cell_width">70dp</dimen>
+    <dimen name="i_subject_cell_width">160dp</dimen>
+    <dimen name="about_us_txt_size">15sp</dimen>
+    <dimen name="i_subject_cell_height">50dp</dimen>
+	<dimen name="lecture_cell_height">50dp</dimen>
+	 <dimen name="song_artist_tag_txt_size">9sp</dimen>
+	<dimen name="drawer_item_height">10dp</dimen>
+	<dimen name="drawer_width">260dp</dimen>
+	<dimen name="prod_icon_diem">126dp</dimen>
+	 <dimen name="prod_icon_diem_listitem">70dp</dimen>
+	 <dimen name="block_item_width">90dp</dimen>
+	 <dimen name="prod_recom_width">90dp</dimen>
+	 <dimen name="home_item">500dp</dimen>
+    <dimen name="home_splash_h">250dp</dimen>
+    <dimen name="home_icon_h">125dp</dimen>
+    <dimen name="home_icon_h_land">65dp</dimen>
+    <dimen name="screen_shots_heigt">240dp</dimen>
+    
+    <dimen name="full_player_song_cover_height">200dp</dimen>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">false</bool>
+    <dimen name="about_us_txt_size">16sp</dimen>
+    <dimen name="block_item_width">80dp</dimen>
+    <dimen name="confirme_worker_customer_tab">100dp</dimen>
+    <dimen name="confirmed_task_worker_tab">100dp</dimen>
+    <dimen name="doc_cell_width">70dp</dimen>
+    <dimen name="drawer_item_height">10dp</dimen>
+    <dimen name="drawer_width">260dp</dimen>
+    <dimen name="full_player_song_cover_height">126dp</dimen>
+    <dimen name="home_icon_h">61dp</dimen>
+    <dimen name="home_icon_h_x">122dp</dimen>
+    <dimen name="home_item">450dp</dimen>
+    <dimen name="home_splash_h">225dp</dimen>
+    <dimen name="i_subject_cell_height">40dp</dimen>
+    <dimen name="i_subject_cell_width">120dp</dimen>
+    <dimen name="lecture_cell_height">40dp</dimen>
+    <dimen name="lecture_cell_width">20dp</dimen>
+    <dimen name="login_logo_height">100dp</dimen>
+    <dimen name="main_menu_min_height">100dp</dimen>
+    <dimen name="news_cover_h">100dp</dimen>
+    <dimen name="news_icon_imgslider">100dp</dimen>
+    <dimen name="prod_icon_diem">70dp</dimen>
+    <dimen name="prod_icon_diem_listitem">50dp</dimen>
+    <dimen name="screen_shots_heigt">160dp</dimen>
+    <dimen name="subject_cell_width">100dp</dimen>
+    <dimen name="video_thumb__height">100dp</dimen>
+    <dimen name="video_thumb__width">100dp</dimen>
+    <integer name="apps_gridview_columns">3</integer>
+    <integer name="apps_gridview_columns_list">1</integer>
+    <integer name="event_details_line_gravity">3</integer>
+    <integer name="similar_songs_gridview_columns">3</integer>
+</resources>

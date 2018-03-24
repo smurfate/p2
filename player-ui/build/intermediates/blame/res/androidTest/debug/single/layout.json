@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_playback_control_view.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\debug\\res\\layout\\exo_playback_control_view.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\exo_simple_player_view.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\debug\\res\\layout\\exo_simple_player_view.xml"
+    }
+]

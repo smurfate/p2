@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\layout-land\\song_tinder_layout.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\layout-land\\song_tinder_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\layout-land\\song_details.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\layout-land\\song_details.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\layout-land\\full_player_layout.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\layout-land\\full_player_layout.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\layout-land\\playlist_layout.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\layout-land\\playlist_layout.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<!--
+ 		Larage
+-->
+
+<resources>
+	 
+    
+    <dimen name="grid_margin">5dp</dimen>
+</resources>

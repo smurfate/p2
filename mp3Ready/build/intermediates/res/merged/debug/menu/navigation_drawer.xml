@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_drawer_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_recommended"
+            android:icon="@drawable/ic_like"
+            android:title="Recommended" />
+        <item
+            android:id="@+id/nav_download"
+            android:icon="@drawable/ic_drawerdownloads"
+            android:title="Download" />
+        <item
+            android:id="@+id/nav_recently"
+            android:icon="@drawable/ic_drawer_recentlyplayed"
+            android:title="Recently" />
+        <item
+            android:id="@+id/nav_playlist"
+            android:icon="@drawable/ic_drawer_playlist"
+            android:title="Playlist" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_drawer_redefine"
+            android:title="Profile" />
+    </group>
+
+    <item android:title="User">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_login"
+                android:title="Login" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_login"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>

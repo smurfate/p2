@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Mp3Ready</string>
+	<string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="author">(C) ZGroup Mobile</string>
+     <string-array name="user_nav_array">
+       <item>Home</item>
+        <item>Recommended</item>
+        <item>Recommended by Genre</item>
+        <item>Downloads</item>
+       	<item>Recently Played</item>
+        <item>PlayLists</item>
+        <item>Redefine My Profile</item>
+    </string-array>
+   <string-array name="nav_array">
+       <item>Home</item>
+       <item>Downloads</item>
+       <item>Recently Played</item>
+       <item>Redefine My Profile</item>
+        
+    </string-array>
+     <string-array name="equalizer_imgs">
+        <item>@drawable/cover_ic_equalizer_1</item>
+        <item>@drawable/cover_ic_equalizer_2</item>
+        <item>@drawable/cover_ic_equalizer_3</item>
+        <item>@drawable/cover_ic_equalizer_4</item>
+        <item>@drawable/cover_ic_equalizer_5</item>
+        <item>@drawable/cover_ic_equalizer_6</item>
+        <item>@drawable/cover_ic_equalizer_7</item>
+        <item>@drawable/cover_ic_equalizer_8</item>
+        <item>@drawable/cover_ic_equalizer_9</item>
+        <item>@drawable/cover_ic_equalizer_10</item>
+        <item>@drawable/cover_ic_equalizer_11</item>
+        <item>@drawable/cover_ic_equalizer_12</item>
+        <item>@drawable/cover_ic_equalizer_13</item>
+    </string-array>
+    <string name="fb_app_id">741310859222029</string>
+   </resources>
+

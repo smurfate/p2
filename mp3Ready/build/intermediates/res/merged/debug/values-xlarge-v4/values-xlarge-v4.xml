@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="isTablet">true</bool>
+    <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
+    <item name="abc_dialog_fixed_height_minor" type="dimen">90%</item>
+    <item name="abc_dialog_fixed_width_major" type="dimen">50%</item>
+    <item name="abc_dialog_fixed_width_minor" type="dimen">70%</item>
+    <item name="abc_dialog_min_width_major" type="dimen">45%</item>
+    <item name="abc_dialog_min_width_minor" type="dimen">72%</item>
+    <dimen name="block_item_width">95dp</dimen>
+    <dimen name="drawer_width">400dp</dimen>
+    <dimen name="home_icon_h">175dp</dimen>
+    <dimen name="home_icon_h_land">85dp</dimen>
+    <dimen name="home_item">700dp</dimen>
+    <dimen name="home_splash_h">350dp</dimen>
+    <dimen name="login_container_margin">80dp</dimen>
+    <dimen name="prod_icon_diem">160dp</dimen>
+    <dimen name="prod_icon_diem_listitem">70dp</dimen>
+    <dimen name="prod_name_cell_font">16sp</dimen>
+    <dimen name="prod_recom_width">100dp</dimen>
+    <dimen name="profile_header_height">220dp</dimen>
+    <dimen name="screen_shots_heigt">400dp</dimen>
+    <integer name="apps_gridview_columns">4</integer>
+    <integer name="apps_gridview_columns_list">4</integer>
+    <integer name="similar_songs_gridview_columns">4</integer>
+</resources>

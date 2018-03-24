@@ -1,0 +1,960 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1383,
+                        "endColumn": 56,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 57,
+                    "endOffset": 167
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1274,
+                        "endColumn": 55,
+                        "endOffset": 1327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 172,
+                    "endColumn": 54,
+                    "endOffset": 222
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1330,
+                        "endColumn": 52,
+                        "endOffset": 1380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 227,
+                    "endLine": 9,
+                    "endColumn": 9,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1440,
+                        "endLine": 40,
+                        "endColumn": 9,
+                        "endOffset": 1583
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endLine": 15,
+                    "endColumn": 9,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 745,
+                        "endLine": 23,
+                        "endColumn": 9,
+                        "endOffset": 944
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 52,
+                    "endOffset": 627
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1223,
+                        "endColumn": 50,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 632,
+                    "endColumn": 55,
+                    "endOffset": 683
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 1586,
+                        "endColumn": 53,
+                        "endOffset": 1637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 688,
+                    "endColumn": 48,
+                    "endOffset": 732
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1176,
+                        "endColumn": 46,
+                        "endOffset": 1220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 737,
+                    "endLine": 23,
+                    "endColumn": 9,
+                    "endOffset": 905
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1005,
+                        "endLine": 30,
+                        "endColumn": 9,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 910,
+                    "endColumn": 66,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\constants.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 791,
+                        "endColumn": 64,
+                        "endOffset": 853
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 54,
+                    "endOffset": 2657
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\constants.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 737,
+                        "endColumn": 52,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2662,
+                    "endColumn": 53,
+                    "endOffset": 2711
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\constants.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 685,
+                        "endColumn": 51,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2716,
+                    "endColumn": 40,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 810,
+                        "endColumn": 38,
+                        "endOffset": 846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endColumn": 46,
+                    "endOffset": 2799
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 685,
+                        "endColumn": 44,
+                        "endOffset": 727
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2804,
+                    "endColumn": 43,
+                    "endOffset": 2843
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 903,
+                        "endColumn": 41,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2848,
+                    "endColumn": 55,
+                    "endOffset": 2899
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 849,
+                        "endColumn": 53,
+                        "endOffset": 900
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2904,
+                    "endColumn": 41,
+                    "endOffset": 2941
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1284,
+                        "endColumn": 39,
+                        "endOffset": 1321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2946,
+                    "endColumn": 37,
+                    "endOffset": 2979
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1092,
+                        "endColumn": 35,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2984,
+                    "endColumn": 37,
+                    "endOffset": 3017
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1164,
+                        "endColumn": 35,
+                        "endOffset": 1197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3022,
+                    "endColumn": 40,
+                    "endOffset": 3058
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 945,
+                        "endColumn": 38,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 3063,
+                    "endColumn": 38,
+                    "endOffset": 3097
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1020,
+                        "endColumn": 36,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3102,
+                    "endColumn": 37,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 984,
+                        "endColumn": 35,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endColumn": 41,
+                    "endOffset": 3177
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1324,
+                        "endColumn": 39,
+                        "endOffset": 1361
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3182,
+                    "endColumn": 37,
+                    "endOffset": 3215
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1128,
+                        "endColumn": 35,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3220,
+                    "endColumn": 41,
+                    "endOffset": 3257
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1364,
+                        "endColumn": 39,
+                        "endOffset": 1401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3262,
+                    "endColumn": 46,
+                    "endOffset": 3304
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1239,
+                        "endColumn": 44,
+                        "endOffset": 1281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3309,
+                    "endColumn": 36,
+                    "endOffset": 3341
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1057,
+                        "endColumn": 34,
+                        "endOffset": 1089
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3346,
+                    "endColumn": 40,
+                    "endOffset": 3382
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1200,
+                        "endColumn": 38,
+                        "endOffset": 1236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3387,
+                    "endColumn": 40,
+                    "endOffset": 3423
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 730,
+                        "endColumn": 38,
+                        "endOffset": 766
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3428,
+                    "endColumn": 42,
+                    "endOffset": 3466
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\ids.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 769,
+                        "endColumn": 40,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3471,
+                    "endColumn": 77,
+                    "endOffset": 3544
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1076,
+                        "endColumn": 75,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3549,
+                    "endColumn": 68,
+                    "endOffset": 3613
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 759,
+                        "endColumn": 66,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3618,
+                    "endColumn": 64,
+                    "endOffset": 3678
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 826,
+                        "endColumn": 62,
+                        "endOffset": 886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3683,
+                    "endColumn": 62,
+                    "endOffset": 3741
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 889,
+                        "endColumn": 60,
+                        "endOffset": 947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3746,
+                    "endColumn": 76,
+                    "endOffset": 3818
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 684,
+                        "endColumn": 74,
+                        "endOffset": 756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3823,
+                    "endColumn": 74,
+                    "endOffset": 3893
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1299,
+                        "endColumn": 72,
+                        "endOffset": 1369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3898,
+                    "endColumn": 75,
+                    "endOffset": 3969
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1152,
+                        "endColumn": 73,
+                        "endOffset": 1223
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3974,
+                    "endColumn": 74,
+                    "endOffset": 4044
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1226,
+                        "endColumn": 72,
+                        "endOffset": 1296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4049,
+                    "endColumn": 66,
+                    "endOffset": 4111
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1011,
+                        "endColumn": 64,
+                        "endOffset": 1073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4116,
+                    "endColumn": 68,
+                    "endOffset": 4180
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1372,
+                        "endColumn": 66,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 4185,
+                    "endColumn": 62,
+                    "endOffset": 4243
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 950,
+                        "endColumn": 60,
+                        "endOffset": 1008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 4248,
+                    "endLine": 64,
+                    "endColumn": 10,
+                    "endOffset": 4522
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 685,
+                        "endLine": 21,
+                        "endColumn": 10,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4527,
+                    "endLine": 68,
+                    "endColumn": 10,
+                    "endOffset": 4746
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1379,
+                        "endLine": 36,
+                        "endColumn": 10,
+                        "endOffset": 1598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4751,
+                    "endLine": 72,
+                    "endColumn": 10,
+                    "endOffset": 4949
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1177,
+                        "endLine": 31,
+                        "endColumn": 10,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4954,
+                    "endLine": 76,
+                    "endColumn": 10,
+                    "endOffset": 5155
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 2,
+                        "startOffset": 2012,
+                        "endLine": 51,
+                        "endColumn": 10,
+                        "endOffset": 2213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5160,
+                    "endLine": 80,
+                    "endColumn": 10,
+                    "endOffset": 5358
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 1810,
+                        "endLine": 46,
+                        "endColumn": 10,
+                        "endOffset": 2008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5363,
+                    "endLine": 84,
+                    "endColumn": 10,
+                    "endOffset": 5573
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 963,
+                        "endLine": 26,
+                        "endColumn": 10,
+                        "endOffset": 1173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5578,
+                    "endLine": 88,
+                    "endColumn": 10,
+                    "endOffset": 5782
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1602,
+                        "endLine": 41,
+                        "endColumn": 10,
+                        "endOffset": 1806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 5787,
+                    "endLine": 92,
+                    "endColumn": 10,
+                    "endOffset": 5994
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 2,
+                        "startOffset": 2217,
+                        "endLine": 56,
+                        "endColumn": 10,
+                        "endOffset": 2424
+                    }
+                }
+            }
+        ]
+    }
+]

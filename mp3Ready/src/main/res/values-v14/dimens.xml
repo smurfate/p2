@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="notification_icon">50dp</dimen>
+ 	<dimen name="team_icon">50dp</dimen>
+	<dimen name="news_icon">100dp</dimen> 	
+	<dimen name="news_cover_h">300dp</dimen>
+	<dimen name="place_onmap_icon_diem">30dp</dimen>
+	<dimen name="main_menu_min_height">100dp</dimen>
+	<dimen name="lecture_cell_width">45dp</dimen>
+	<dimen name="news_icon_imgslider">100dp</dimen>
+<dimen name="subject_cell_width">160dp</dimen>
+<dimen name="doc_cell_width">160dp</dimen>
+<dimen name="i_subject_cell_width">220dp</dimen>
+<!--<dimen name="i_subject_cell_height">40dp</dimen>-->
+	<!--<dimen name="lecture_cell_height">40dp</dimen>-->
+	<!--<dimen name="i_subject_cell_height">80dp</dimen>-->
+	<!--<dimen name="lecture_cell_height">80dp</dimen>-->
+	
+	<dimen name="drawer_width">700dp</dimen>
+</resources>
+

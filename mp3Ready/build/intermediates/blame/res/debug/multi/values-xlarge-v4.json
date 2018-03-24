@@ -1,0 +1,444 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 70,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 70,
+                    "endOffset": 230
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 70,
+                        "endOffset": 192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 235,
+                    "endColumn": 69,
+                    "endOffset": 300
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 197,
+                        "endColumn": 69,
+                        "endOffset": 262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 305,
+                    "endColumn": 69,
+                    "endOffset": 370
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 267,
+                        "endColumn": 69,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 375,
+                    "endColumn": 67,
+                    "endOffset": 438
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 67,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 443,
+                    "endColumn": 67,
+                    "endOffset": 506
+                },
+                "from": {
+                    "file": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 405,
+                        "endColumn": 67,
+                        "endOffset": 468
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 511,
+                    "endColumn": 47,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 47,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 44,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\integers.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 44,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 43,
+                    "endOffset": 643
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 326,
+                        "endColumn": 43,
+                        "endOffset": 365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 648,
+                    "endColumn": 47,
+                    "endOffset": 691
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 47,
+                        "endOffset": 413
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 696,
+                    "endColumn": 41,
+                    "endOffset": 733
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 41,
+                        "endOffset": 275
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 738,
+                    "endColumn": 45,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 45,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 53,
+                    "endOffset": 833
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 520,
+                        "endColumn": 53,
+                        "endOffset": 569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 838,
+                    "endColumn": 46,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 39,
+                        "endColumn": 46,
+                        "endOffset": 81
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 885,
+                    "endColumn": 54,
+                    "endOffset": 935
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 86,
+                        "endColumn": 54,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 940,
+                    "endColumn": 50,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 50,
+                        "endOffset": 515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endColumn": 48,
+                    "endOffset": 1035
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 48,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1040,
+                    "endColumn": 53,
+                    "endOffset": 1089
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 574,
+                        "endColumn": 53,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1094,
+                    "endColumn": 50,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 418,
+                        "endColumn": 50,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endColumn": 53,
+                    "endOffset": 1194
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\integers.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 165,
+                        "endColumn": 53,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1199,
+                    "endColumn": 58,
+                    "endOffset": 1253
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1258,
+                    "endColumn": 62,
+                    "endOffset": 1316
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge\\integers.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 220,
+                        "endColumn": 62,
+                        "endOffset": 278
+                    }
+                }
+            }
+        ]
+    }
+]

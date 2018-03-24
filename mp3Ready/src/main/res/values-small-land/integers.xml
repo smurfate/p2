@@ -1,0 +1,13 @@
+<resources>
+
+    
+    <integer name="event_details_line_gravity">3</integer>
+     
+    
+    <integer name="apps_gridview_columns_list">1</integer>
+    <integer name="apps_gridview_columns">3</integer>
+    
+    <integer name="similar_songs_gridview_columns">3</integer>
+</resources>
+
+

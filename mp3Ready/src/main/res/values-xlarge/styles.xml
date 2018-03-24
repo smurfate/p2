@@ -1,0 +1,10 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    
+<!--        <style name="myRatingBar_tiny" parent="myRatingBar"> -->
+<!--         <item name="android:progressDrawable">@drawable/ratingbar_small</item> -->
+<!--         <item name="android:indeterminateDrawable">@drawable/ratingbar_small</item> -->
+        
+<!--     </style> -->
+    
+</resources>

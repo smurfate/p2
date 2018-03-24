@@ -1,0 +1,17 @@
+<resources>
+
+    
+    <integer name="event_details_line_gravity">3</integer>
+     
+    
+    
+    
+    <integer name="radio_left">@drawable/radiobx_btn</integer>
+    <integer name="radio_right">@null</integer>
+    <integer name="apps_gridview_columns_list">2</integer>
+    
+    <integer name="apps_gridview_columns">3</integer>
+    <integer name="similar_songs_gridview_columns">3</integer>
+</resources>
+
+

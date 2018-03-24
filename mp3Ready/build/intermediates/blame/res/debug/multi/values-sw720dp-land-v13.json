@@ -1,0 +1,330 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-land-v13\\values-sw720dp-land-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 37,
+                        "endOffset": 90
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 48,
+                    "endOffset": 137
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 820,
+                        "endColumn": 45,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 142,
+                    "endColumn": 58,
+                    "endOffset": 196
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 206,
+                        "endColumn": 58,
+                        "endOffset": 260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 201,
+                    "endColumn": 46,
+                    "endOffset": 243
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 407,
+                        "endColumn": 42,
+                        "endOffset": 449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 248,
+                    "endColumn": 49,
+                    "endOffset": 293
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 1,
+                        "startOffset": 910,
+                        "endColumn": 46,
+                        "endOffset": 955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 298,
+                    "endColumn": 44,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 867,
+                        "endColumn": 41,
+                        "endOffset": 907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 61,
+                    "endOffset": 400
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 961,
+                        "endColumn": 58,
+                        "endOffset": 1018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 405,
+                    "endColumn": 52,
+                    "endOffset": 453
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 451,
+                        "endColumn": 48,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 458,
+                    "endColumn": 49,
+                    "endOffset": 503
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 312,
+                        "endColumn": 45,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 508,
+                    "endColumn": 52,
+                    "endOffset": 556
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 262,
+                        "endColumn": 48,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 561,
+                    "endColumn": 44,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 0,
+                        "startOffset": 550,
+                        "endColumn": 40,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 51,
+                    "endOffset": 653
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 501,
+                        "endColumn": 47,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 658,
+                    "endColumn": 50,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 359,
+                        "endColumn": 46,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 53,
+                    "endOffset": 758
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\integers.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 53,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 763,
+                    "endColumn": 58,
+                    "endOffset": 817
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\integers.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 58,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 822,
+                    "endColumn": 58,
+                    "endOffset": 876
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 22,
+                        "endColumn": 58,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 881,
+                    "endColumn": 62,
+                    "endOffset": 939
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-sw720dp-land\\integers.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 62,
+                        "endOffset": 268
+                    }
+                }
+            }
+        ]
+    }
+]

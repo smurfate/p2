@@ -1,0 +1,121 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    
+    
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/p_grey_click"
+    android:descendantFocusability="blocksDescendants" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="4dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/product_item_bg"
+        android:orientation="horizontal"
+        android:paddingBottom="4dp"
+        android:paddingLeft="4dp"
+        android:paddingRight="4dp"
+        android:paddingTop="4dp" >
+
+       <ImageButton android:layout_width="30dp"
+           android:layout_height="wrap_content"
+           android:id="@+id/delete_task"
+           android:adjustViewBounds="true"
+           android:scaleType="fitCenter"
+           android:layout_centerVertical="true"
+           android:background="@drawable/img_btn_bg"
+           android:src="@drawable/ic_close"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+         
+         android:layout_toRightOf="@id/delete_task"
+            android:orientation="vertical"
+            android:paddingLeft="6dp"
+            android:id="@+id/info_cotr" >
+
+          
+				<RelativeLayout android:layout_width="match_parent"
+				    android:layout_height="wrap_content"
+				    android:orientation="horizontal"
+				    >
+				     <ImageButton
+			            android:id="@+id/play_pause"
+			            android:layout_width="wrap_content"
+			            android:layout_alignParentRight="true"
+			            android:layout_height="wrap_content"
+			            android:adjustViewBounds="true"
+			            android:background="@drawable/btn_download_play_bg"
+			            android:layout_marginRight="14dp" />
+				    <TextView
+                        android:id="@+id/tv_link_title"
+                        android:textSize="16sp"
+                        android:layout_width="wrap_content"
+                        android:layout_alignParentLeft="true"
+                        android:layout_height="wrap_content"
+                        android:text="sdfsdfsdfsdfsadgdsfg"
+                        android:singleLine="true"
+                        android:layout_toLeftOf="@id/play_pause"
+                        android:layout_centerVertical="true"
+                        android:gravity="left"
+                        android:textColor="@android:color/black" />
+				   
+				</RelativeLayout>
+                    
+					<RelativeLayout android:layout_width="match_parent"
+					    android:layout_height="wrap_content"
+					    android:orientation="horizontal"
+
+					    >
+					   
+					    
+	                    <TextView
+	                        android:id="@+id/tv_progress"
+	                       
+	                        android:layout_width="wrap_content"
+	                        android:layout_centerVertical="true"
+	                        android:layout_alignParentRight="true"
+	                        android:layout_height="wrap_content"
+	                        android:text="3%"
+	                        android:gravity="center_horizontal"
+	                        android:textSize="12sp"
+	                        android:textColor="@color/developer_text" />
+	                     <TextView
+	                        android:id="@+id/tv_msg"
+	                       
+	                        android:layout_width="wrap_content"
+	                        android:layout_centerVertical="true"
+	                        android:visibility="gone"
+	                        android:layout_height="wrap_content"
+	                        android:text=""
+	                        android:gravity="center_horizontal"
+	                        android:textSize="12sp"
+	                        android:textColor="@color/developer_text" />
+	                    <ProgressBar
+			                android:id="@+id/song_download_progressBar"
+			                style="?android:attr/progressBarStyleHorizontal"
+			                android:layout_width="match_parent"
+			                android:layout_marginRight="5dp"
+			                android:layout_height="wrap_content"
+			                android:layout_centerVertical="true"
+			                android:layout_toLeftOf="@id/tv_progress"
+			                android:indeterminate="false"
+			                android:progress="0"
+			                android:visibility="visible" />
+                    </RelativeLayout>
+                
+        </LinearLayout>
+
+             
+        
+
+
+        
+        
+ 
+    </RelativeLayout>
+
+</LinearLayout>

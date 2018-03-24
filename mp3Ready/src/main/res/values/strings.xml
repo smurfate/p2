@@ -1,0 +1,51 @@
+<resources>
+
+    <string name="app_name">Mp3Ready</string>
+	<string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string name="home">Home</string>
+    <string name="recommended">Recommended</string>
+    <string name="playlist">Playlist</string>
+    <string name="downloads">Download</string>
+    <string name="recently">Recently Played</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+
+
+     <string-array name="user_nav_array">
+        <item>Home</item>
+        <item>Recommended</item>
+        <item>Recommended Songs</item>
+        <item>Recommended Songs by Genre</item>
+        <item>PlayLists</item>
+        <item>Downloads</item>
+        <item>Recently Played</item>
+        <item>My PlayLists</item>
+        <item>From Friends</item>
+        <item>Likes</item>
+        <item>Redefine Profile</item>
+        <item>Redefine My Profile</item>
+        <item>Divisor</item>
+        <item>Login</item>
+        <item>Logout</item>
+    </string-array>
+    
+   
+    <string-array name="equalizer_imgs">
+        <item>@drawable/cover_ic_equalizer_1</item>
+        <item>@drawable/cover_ic_equalizer_2</item>
+        <item>@drawable/cover_ic_equalizer_3</item>
+        <item>@drawable/cover_ic_equalizer_4</item>
+        <item>@drawable/cover_ic_equalizer_5</item>
+        <item>@drawable/cover_ic_equalizer_6</item>
+        <item>@drawable/cover_ic_equalizer_7</item>
+        <item>@drawable/cover_ic_equalizer_8</item>
+        <item>@drawable/cover_ic_equalizer_9</item>
+        <item>@drawable/cover_ic_equalizer_10</item>
+        <item>@drawable/cover_ic_equalizer_11</item>
+        <item>@drawable/cover_ic_equalizer_12</item>
+        <item>@drawable/cover_ic_equalizer_13</item>
+    </string-array>
+     <string name="fb_app_id">741310859222029</string>
+</resources>
+

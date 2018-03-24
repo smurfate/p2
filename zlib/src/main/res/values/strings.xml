@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ZLib</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="noInternetMsg"></string>
+    <string name="unKnownHostMsg"></string>
+    <string name="timeOutMsg"></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

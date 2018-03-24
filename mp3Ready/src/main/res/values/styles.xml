@@ -1,0 +1,214 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppBaseTheme" parent="@android:style/Theme.Black"></style>
+
+    AppBaseTheme
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="android:windowBackground">@color/light_gray</item>
+         <item name="android:itemTextAppearance">@color/bg_gray</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+         <item name="android:windowTitleSize">0dp</item>
+		<item name="android:windowActionBar">false</item>
+		<!--<item name="windowContentOverlay">@null</item>-->
+    	<item name="android:windowContentOverlay">@null</item>
+    </style>
+ 	<style name="actionBarTabTextStyle" parent="@android:style/Widget.Holo.Light.ActionBar.TabText.Inverse">
+        <item name="android:textColor">#000000</item>
+    </style>
+   
+    <style name="ActionBarStyle" parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse">
+     	<item name="android:icon">@android:color/transparent</item>
+<!--         <item name="android:background">#e3e3e3</item>  -->
+	         <item name="android:background">#0A0A2A</item>  
+        <item name="android:titleTextStyle">@color/bg_gray</item>
+        <item name="android:subtitleTextStyle">@style/SubtitleTextStyle</item>
+    </style>
+	<style name="SubtitleTextStyle">
+	     <item name="android:textSize">22sp</item>
+	     <item name="android:textColor">#000000</item>
+	</style>
+    <!--<style name="Theme.AndroidDevelopers" parent="Theme.Sherlock.Light">-->
+        <!--<item name="android:actionBarItemBackground">@drawable/ad_selectable_background</item>-->
+        <!--<item name="actionBarItemBackground">@drawable/ad_selectable_background</item>-->
+        <!--<item name="android:popupMenuStyle">@style/MyPopupMenu</item>-->
+        <!--<item name="popupMenuStyle">@style/MyPopupMenu</item>-->
+        <!--<item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>-->
+        <!--<item name="dropDownListViewStyle">@style/MyDropDownListView</item>-->
+        <!--<item name="android:actionBarTabStyle">@style/MyActionBarTabStyle</item>-->
+        <!--<item name="actionBarTabStyle">@style/MyActionBarTabStyle</item>-->
+        <!--<item name="android:actionDropDownStyle">@style/MyDropDownNav</item>-->
+        <!--<item name="actionDropDownStyle">@style/MyDropDownNav</item>-->
+        <!--<item name="android:listChoiceIndicatorMultiple">@drawable/ad_btn_check_holo_light</item>-->
+        <!--<item name="android:listChoiceIndicatorSingle">@drawable/ad_btn_radio_holo_light</item>-->
+        <!--&lt;!&ndash;<item name="android:actionOverflowButtonStyle">@style/MyOverflowButton</item>&ndash;&gt;-->
+    <!--</style>-->
+    
+        <style name="MediaController_mySeekBar" parent="android:Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:indeterminateDrawable">@drawable/scrubber_progress_horizontal_holo_dark</item>
+        <item name="android:minHeight">13dip</item>
+        <item name="android:maxHeight">13dip</item>
+        <item name="android:thumb">@drawable/scrubber_control_selector_holo</item>
+        <item name="android:thumbOffset">16dip</item>
+        <item name="android:paddingLeft">16dip</item>
+        <item name="android:paddingRight">16dip</item>
+    </style>
+        <style name="myRatingBar" >
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:progressDrawable">@drawable/ratingbar</item>
+        <item name="android:indeterminateDrawable">@drawable/ratingbar</item>
+        <item name="android:minHeight">20dip</item>
+        <item name="android:maxHeight">20dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:paddingTop">10dip</item>
+        
+    </style>
+    
+       <style name="myRatingBar_tiny" parent="myRatingBar">
+        
+        <item name="android:progressDrawable">@drawable/ratingbar</item>
+        <item name="android:indeterminateDrawable">@drawable/ratingbar</item>
+    </style>
+    
+        
+        
+     <style name="myRatingBar_small" parent="myRatingBar">
+        <item name="android:progressDrawable">@drawable/ratingbar_small</item>
+        <item name="android:indeterminateDrawable">@drawable/ratingbar_small</item>
+    </style>
+    <!-- style the overflow menu -->
+    <!--<style name="MyPopupMenu" parent="Widget.Sherlock.Light.PopupMenu">-->
+        <!--<item name="android:popupBackground">@drawable/ad_menu_dropdown_panel_holo_light</item>-->
+    <!--</style>-->
+
+    <!-- style the items within the overflow menu -->
+    <!--<style name="MyDropDownListView" parent="Widget.Sherlock.ListView.DropDown">-->
+        <!--<item name="android:listSelector">@drawable/ad_selectable_background</item>-->
+    <!--</style>-->
+
+    <!-- style for the tabs -->
+    <!--<style name="MyActionBarTabStyle" parent="Widget.Sherlock.Light.ActionBar.TabBar">-->
+        <!--<item name="android:background">@drawable/actionbar_tab_bg</item>-->
+        <!--<item name="android:paddingLeft">32dp</item>-->
+        <!--<item name="android:paddingRight">32dp</item>-->
+    <!--</style>-->
+
+    <!-- style the list navigation -->
+    <!--<style name="MyDropDownNav" parent="Widget.Sherlock.Light.Spinner.DropDown.ActionBar">-->
+        <!--<item name="android:background">@drawable/ad_spinner_background_holo_light</item>-->
+        <!--<item name="android:popupBackground">@drawable/ad_menu_dropdown_panel_holo_light</item>-->
+        <!--<item name="android:dropDownSelector">@drawable/ad_selectable_background</item>-->
+    <!--</style>-->
+
+   <style name="SeenRate_SeekBar" parent="android:Widget.SeekBar">
+        <item name="android:progressDrawable">@drawable/seen_rate_progress_horizontal_holo_dark</item>
+        <item name="android:indeterminateDrawable">@drawable/seen_rate_progress_horizontal_holo_dark</item>
+        <item name="android:minHeight">5dip</item>
+        <item name="android:maxHeight">5dip</item>
+        <item name="android:thumb">@null</item>
+        <item name="android:thumbOffset">0dip</item>
+        <item name="android:paddingLeft">0dip</item>
+        <item name="android:paddingRight">0dip</item>
+    </style>
+    <style name="SwitchButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+    </style>
+     <!-- <style name="MaterialDesignStyle" parent="MD">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">16dp</item>
+    </style> -->
+     <style name="TextAppearanceMedium">
+        <item name="android:textSize">18sp</item>
+    </style>
+        <declare-styleable name="MaterialSection">
+        <attr name="sectionColorIcon" format="color" />
+        <attr name="sectionColorText" format="color" />
+        <attr name="sectionColorNotification" format="color" />
+        <attr name="sectionBackgroundColorPressed" format="color" />
+        <attr name="sectionBackgroundColorSelected" format="color" />
+        <attr name="sectionBackgroundColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="MaterialNavigationDrawer">
+        <attr name="rippleBackport" format="boolean" /><!-- supporto del ripple nelle versioni precedenti di android -->
+        <attr name="drawerType" format="integer" /><!-- Tipologia del drawer -->
+        <attr name="uniqueToolbarColor" format="boolean" /><!-- La toolbar non cambia mai di colore -->
+        <attr name="singleAccount" format="boolean" /><!-- utente singolo (senza pulsante di cambio) -->
+        <attr name="multipaneSupport" format="boolean" />
+        <attr name="drawerColor" format="color" /><!-- Colore del drawer -->
+        <attr name="sectionStyle" format="reference" />
+        <attr name="subheaderStyle" format="reference"/>
+        <attr name="accountStyle" format="reference" />
+        <attr name="learningPattern" format="boolean" /><!-- true -> attivo, false -> disattivato -->
+        <attr name="defaultSectionLoaded" format="integer" /><!-- la prima section ad essere caricata -->
+        <attr name="toolbarElevation" format="boolean" />
+    </declare-styleable>
+
+    <declare-styleable name="MaterialSubheader">
+        <attr name="subheaderTitleColor" format="color"/>
+    </declare-styleable>
+    
+    <declare-styleable name="MaterialAccount">
+        <attr name="titleColor" format="color" />
+        <attr name="subtitleColor" format="color" />
+    </declare-styleable>
+     
+     <style name="MaterialSectionTheme" >
+        <item name="sectionColorIcon">#FFF</item>
+        <item name="sectionColorText">#FFF</item>
+        <item name="sectionColorNotification">#FFF</item>
+        <item name="sectionBackgroundColorPressed">#16FFFFFF</item>
+        <item name="sectionBackgroundColorSelected">#0AFFFFFF</item>
+        <item name="sectionBackgroundColor">#00FFFFFF</item>
+    </style>
+
+    <style name="MaterialSectionTheme.Light" >
+        <item name="sectionColorIcon">#000000</item>
+        <item name="sectionColorText">#000000</item>
+        <item name="sectionColorNotification">#000000</item>
+        <item name="sectionBackgroundColorPressed">#16000000</item>
+        <item name="sectionBackgroundColorSelected">#0A000000</item>
+        <item name="sectionBackgroundColor">#00FFFFFF</item>
+    </style>
+
+    <style name="MaterialSubheaderTheme">
+        <item name="subheaderTitleColor">#FFF</item>
+    </style>
+
+    <style name="MaterialSubheaderTheme.Light">
+        <item name="subheaderTitleColor">#000</item>
+    </style>
+
+    <style name="MaterialAccountTheme">
+        <item name="titleColor">#FFF</item>
+        <item name="subtitleColor">#FFF</item>
+    </style>
+
+
+    <style name="AppTheme2" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@color/light_gray</item>
+        <item name="android:itemTextAppearance">@color/bg_gray</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle</item>
+        <item name="android:windowTitleSize">0dp</item>
+        <item name="android:windowActionBar">false</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

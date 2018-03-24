@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-port-v4\\values-xlarge-port-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 39,
+                    "endOffset": 90
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge-port\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 39,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 95,
+                    "endColumn": 41,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge-port\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 44,
+                        "endColumn": 41,
+                        "endOffset": 81
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 53,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge-port\\integers.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 119,
+                        "endColumn": 53,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 58,
+                    "endOffset": 245
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge-port\\integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 58,
+                        "endOffset": 113
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 250,
+                    "endColumn": 62,
+                    "endOffset": 308
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-xlarge-port\\integers.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 174,
+                        "endColumn": 62,
+                        "endOffset": 232
+                    }
+                }
+            }
+        ]
+    }
+]

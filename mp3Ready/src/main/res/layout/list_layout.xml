@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" 
+    android:layout_width="match_parent"
+    android:background="@color/light_gray"
+    android:layout_height="match_parent"
+    >
+    
+    <ProgressBar 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_loading"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        
+        
+        />  
+     
+   
+  <Button
+        android:id="@+id/btn_next_tinder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:background="@drawable/my_custom_background_button"
+        android:text="NEXT"
+        android:visibility="gone"
+        android:layout_alignParentBottom="true"
+       android:textSize="14sp"
+       
+        android:textColor="@android:color/white" />
+   <ProgressBar 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/pb_load_more"
+        android:visibility="gone"
+        android:layout_above="@id/btn_next_tinder"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        
+        />  
+	<GridView 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list"
+        android:layout_above="@id/pb_load_more"
+        android:layout_margin="5dp"
+        
+        
+        android:numColumns="@integer/apps_gridview_columns"
+        android:verticalSpacing="5dp"
+    android:horizontalSpacing="0dp"
+    android:stretchMode="columnWidth"
+        android:dividerHeight="1dp">
+    </GridView>
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_loading"
+        android:visibility="gone"
+        android:text="no songs found"
+        android:layout_centerInParent="true"
+        android:textColor="@color/dark_blue"
+        />
+    
+    
+    </RelativeLayout>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mp3Ready.iml" filepath="$PROJECT_DIR$/Mp3Ready.iml" />
+      <module fileurl="file://$PROJECT_DIR$/andTinder/andTinder.iml" filepath="$PROJECT_DIR$/andTinder/andTinder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp3Ready/mp3Ready.iml" filepath="$PROJECT_DIR$/mp3Ready/mp3Ready.iml" />
+      <module fileurl="file://$PROJECT_DIR$/page_indecator_library/page_indecator_library.iml" filepath="$PROJECT_DIR$/page_indecator_library/page_indecator_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player/player.iml" filepath="$PROJECT_DIR$/player/player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player-core/player-core.iml" filepath="$PROJECT_DIR$/player-core/player-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player-dash/player-dash.iml" filepath="$PROJECT_DIR$/player-dash/player-dash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player-hls/player-hls.iml" filepath="$PROJECT_DIR$/player-hls/player-hls.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player-smoothstreaming/player-smoothstreaming.iml" filepath="$PROJECT_DIR$/player-smoothstreaming/player-smoothstreaming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/player-ui/player-ui.iml" filepath="$PROJECT_DIR$/player-ui/player-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/view_pager_lib/view_pager_lib.iml" filepath="$PROJECT_DIR$/view_pager_lib/view_pager_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zlib/zlib.iml" filepath="$PROJECT_DIR$/zlib/zlib.iml" />
+    </modules>
+  </component>
+</project>

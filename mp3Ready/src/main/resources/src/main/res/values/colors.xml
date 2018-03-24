@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_window">#FFE5E5E5</color>
+    <color name="honeycombish_blue">#FFE5E5E5</color>
+    <color name="background">#FFE5E500</color>
+    
+    <color name="fleet_orange_dark">#ffff8800</color>
+    <color name="fleet_white">#FFFFFFFF</color>
+    <color name="blue">#00f</color>
+        
+    
+      <color name="grey">#ffdedede</color>
+      <color name="red">#ffff4444</color>
+      <color name="green">#689f38</color>
+      <color name="white">#ffffffff</color>
+      <color name="bbutton_info_pressed">#ff39b3d7</color>
+      <color name="transpernt_black">#80000000</color>
+      <color name="transpernt_white">#80000000</color>
+      
+      
+      
+    
+</resources>

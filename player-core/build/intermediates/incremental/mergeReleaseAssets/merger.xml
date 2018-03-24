@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Documents\Android\Mp3Ready\player-core\src\main\assets"/><source path="D:\Documents\Android\Mp3Ready\player-core\build\generated\assets\shaders\release"/></dataSet><dataSet config="release"><source path="D:\Documents\Android\Mp3Ready\player-core\src\release\assets"/></dataSet></merger>

@@ -1,0 +1,691 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-land-v4\\values-large-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\bools.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 38,
+                        "endOffset": 91
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 48,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 966,
+                        "endColumn": 45,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 48,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1245,
+                        "endColumn": 46,
+                        "endOffset": 1289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endColumn": 60,
+                    "endOffset": 248
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 497,
+                        "endColumn": 60,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 253,
+                    "endColumn": 57,
+                    "endOffset": 306
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 57,
+                        "endOffset": 492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 311,
+                    "endColumn": 44,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1104,
+                        "endColumn": 42,
+                        "endOffset": 1144
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 45,
+                    "endOffset": 397
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 712,
+                        "endColumn": 45,
+                        "endOffset": 753
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 402,
+                    "endColumn": 49,
+                    "endOffset": 447
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1054,
+                        "endColumn": 46,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 452,
+                    "endColumn": 44,
+                    "endOffset": 492
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1012,
+                        "endColumn": 41,
+                        "endOffset": 1052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 497,
+                    "endColumn": 61,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1675,
+                        "endColumn": 58,
+                        "endOffset": 1732
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 43,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1383,
+                        "endColumn": 43,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 603,
+                    "endColumn": 47,
+                    "endOffset": 646
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1427,
+                        "endColumn": 47,
+                        "endOffset": 1470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 651,
+                    "endColumn": 41,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 1295,
+                        "endColumn": 39,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 45,
+                    "endOffset": 734
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 45,
+                        "endOffset": 1378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 739,
+                    "endColumn": 53,
+                    "endOffset": 788
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 53,
+                        "endOffset": 915
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 793,
+                    "endColumn": 52,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 758,
+                        "endColumn": 52,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endColumn": 51,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 917,
+                        "endColumn": 48,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 49,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 611,
+                        "endColumn": 49,
+                        "endOffset": 656
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 53,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1571,
+                        "endColumn": 50,
+                        "endOffset": 1620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 49,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 49,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 52,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 52,
+                        "endOffset": 606
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 44,
+                    "endOffset": 1145
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 189,
+                        "endColumn": 40,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1150,
+                    "endColumn": 51,
+                    "endOffset": 1197
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 51,
+                        "endOffset": 281
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1202,
+                    "endColumn": 46,
+                    "endOffset": 1244
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1147,
+                        "endColumn": 44,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1249,
+                    "endColumn": 54,
+                    "endOffset": 1299
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1192,
+                        "endColumn": 52,
+                        "endOffset": 1242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1304,
+                    "endColumn": 53,
+                    "endOffset": 1353
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1520,
+                        "endColumn": 50,
+                        "endOffset": 1569
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1358,
+                    "endColumn": 50,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1472,
+                        "endColumn": 47,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endColumn": 55,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1622,
+                        "endColumn": 52,
+                        "endOffset": 1673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 54,
+                    "endOffset": 1515
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 54,
+                        "endOffset": 861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1520,
+                    "endColumn": 50,
+                    "endOffset": 1566
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 661,
+                        "endColumn": 50,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1571,
+                    "endColumn": 51,
+                    "endOffset": 1618
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 51,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1623,
+                    "endColumn": 50,
+                    "endOffset": 1669
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 50,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1674,
+                    "endColumn": 53,
+                    "endOffset": 1723
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\integers.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 53,
+                        "endOffset": 200
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1728,
+                    "endColumn": 58,
+                    "endOffset": 1782
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\integers.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 58,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1787,
+                    "endColumn": 58,
+                    "endOffset": 1841
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\integers.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 22,
+                        "endColumn": 58,
+                        "endOffset": 76
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1846,
+                    "endColumn": 62,
+                    "endOffset": 1904
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\values-large-land\\integers.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 62,
+                        "endOffset": 268
+                    }
+                }
+            }
+        ]
+    }
+]

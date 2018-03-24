@@ -1,0 +1,10 @@
+<!--
+ 		Larage
+-->
+
+<resources>
+
+    <dimen name="grid_margin">110dp</dimen>
+    <dimen name="login_container_margin">200dp</dimen>
+    
+</resources>

@@ -1,0 +1,216 @@
+[
+    {
+        "outputFile": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-gu-rIN\\values-gu-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 83,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1081,
+                        "endColumn": 81,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 70,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 748,
+                        "endColumn": 68,
+                        "endOffset": 814
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 65,
+                    "endOffset": 271
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 817,
+                        "endColumn": 63,
+                        "endOffset": 878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 276,
+                    "endColumn": 65,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 881,
+                        "endColumn": 63,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 77,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 672,
+                        "endColumn": 75,
+                        "endOffset": 745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 84,
+                    "endOffset": 500
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1163,
+                        "endColumn": 82,
+                        "endOffset": 1243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 505,
+                    "endColumn": 84,
+                    "endOffset": 585
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1246,
+                        "endColumn": 82,
+                        "endOffset": 1326
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 590,
+                    "endColumn": 83,
+                    "endOffset": 669
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1329,
+                        "endColumn": 81,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 674,
+                    "endColumn": 74,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1008,
+                        "endColumn": 72,
+                        "endOffset": 1078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 70,
+                    "endOffset": 815
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1411,
+                        "endColumn": 68,
+                        "endOffset": 1477
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 820,
+                    "endColumn": 64,
+                    "endOffset": 880
+                },
+                "from": {
+                    "file": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\values-gu-rIN\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 945,
+                        "endColumn": 62,
+                        "endOffset": 1005
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\menu\\navigation_drawer.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\menu\\navigation_drawer.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\menu\\popup_menu.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\src\\main\\res\\menu\\main.xml"
+    }
+]

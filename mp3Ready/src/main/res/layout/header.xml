@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header_layout"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="#0A0A2A"
+    android:orientation="horizontal" 
+    >
+
+       <TextView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/screen_title"
+    android:singleLine="true"
+    android:textColor="@color/white"
+    android:textSize="15sp"
+    android:visibility="gone"
+    android:layout_marginRight="3dp"
+    android:layout_centerVertical="true"
+    android:layout_alignParentLeft="true"
+    android:text="Artist"/>
+    
+			<LinearLayout android:layout_width="match_parent"
+			    android:layout_height="wrap_content"
+			    android:layout_centerVertical="true"
+			    
+			    android:layout_toRightOf="@id/screen_title"
+			    android:orientation="vertical">
+           <AutoCompleteTextView
+            android:id="@+id/search_autoCompleteTextView"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            	
+            android:hint="Search"
+            android:inputType="textPersonName"
+            
+            android:textColor="@color/white"
+            android:lines="1"
+            android:drawableLeft="@drawable/nb_ic_search_light_right"
+            android:imeOptions="actionSearch" 
+            android:background="@drawable/my_custom_background_edittext_red_withoutbottom"
+            android:textColorHint="@color/white"
+            android:textSize="16sp"
+            
+            />
+           <View android:layout_width="match_parent"
+               android:layout_height="1dp"
+               android:background="#80ffffff"/>
+</LinearLayout>
+
+
+</RelativeLayout>
