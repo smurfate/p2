@@ -12,12 +12,12 @@
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\drawable-mdpi\\exo_controls_pause.png"
     },
     {
-        "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_repeat_one.png",
-        "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\drawable-mdpi\\exo_controls_repeat_one.png"
-    },
-    {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_edit_mode_logo.png",
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\exo_edit_mode_logo.png"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_repeat_one.png",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\src\\main\\res\\drawable-mdpi\\exo_controls_repeat_one.png"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\exo_controls_rewind.png",

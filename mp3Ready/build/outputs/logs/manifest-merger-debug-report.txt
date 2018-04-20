@@ -83,23 +83,23 @@ ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:3
 		ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:33:22-81
 application
 ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:36:5-73:19
-MERGED from [com.android.support:design:25.0.0] C:\Users\Saad\.android\build-cache\b9589c5e30fef1cbc88d25887cdbb007dd3e2f6e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:transition:25.0.0] C:\Users\Saad\.android\build-cache\b6edaf1a6326d6f14cbad2f704cce7fd47d34f0e\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Saad\.android\build-cache\ac45cf7851e2f368215c4d019827771fabfa9930\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\16556622488fa8a32293495be29e82f250f9c12f\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Saad\.android\build-cache\02c3dcfde71c2866c233114852031d29528fd505\output\AndroidManifest.xml:9:5-20
 MERGED from [Mp3Ready:andTinder:unspecified] D:\Documents\Android\Mp3Ready\andTinder\build\intermediates\bundles\default\AndroidManifest.xml:9:5-12:19
 MERGED from [Mp3Ready:view_pager_lib:unspecified] D:\Documents\Android\Mp3Ready\view_pager_lib\build\intermediates\bundles\default\AndroidManifest.xml:9:5-20
 MERGED from [Mp3Ready:zlib:unspecified] D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-maps:6.5.87] C:\Users\Saad\.android\build-cache\a3aa2d48181945d41d7c2674431d5fc003f2a693\output\AndroidManifest.xml:19:5-20
-MERGED from [com.google.android.gms:play-services-base:6.5.87] C:\Users\Saad\.android\build-cache\9a3035635efd1bc8510547d16ad4a150a2ac6a26\output\AndroidManifest.xml:20:5-24:19
-MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Saad\.android\build-cache\a5a98b78c5072a955e18dbb878468b91cae48a94\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Saad\.android\build-cache\fbbba0fa0bdec411d15f9058c32f1e3b881ad39d\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Saad\.android\build-cache\ea218ac54e495f7dbc5580e08cfb197448917c8f\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Saad\.android\build-cache\c158931f18e632e6e10926f3655154e879a181fd\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Saad\.android\build-cache\57a227509e2599176132725d0f6befd7dee47d25\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Saad\.android\build-cache\226d32ecf1b21cbacd1d2578039e1c0a782807c5\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Saad\.android\build-cache\0248eb2bb2b9415e180601647afce1d6fe8f29bc\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Saad\.android\build-cache\9fee8f5b94360a7ceb77bd185f4962299a870a89\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Saad\.android\build-cache\c7a1cbb3d8e3fe9248a147c2c6373903d84deb33\output\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-maps:6.5.87] C:\Users\Saad\.android\build-cache\987e861d0192196a2d55844cd20403d6da00c6f4\output\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-base:6.5.87] C:\Users\Saad\.android\build-cache\9f0655791c106ad972439c9f8698798eb4dfc7c3\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\b70d0a54f24f8f946f25080d3252f0afda5be506\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\537baafecb5a91ce2f1bca895d204266b4ed0f0b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\2d691614053175f2023ff59245c9a699568c70be\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\fcc8fa98111bcba1588cb38da3e28ac4423031d5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\50104423ee4ab73e7b54df5c371e92b70b5767b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\7280be41209b3917b3e1d1619072f8b46df97e92\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\4f664f8d4405d8b247a09c666365331f6eb14e73\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\44647bb4077d7bdc71a4daec100a6e6a5225e390\output\AndroidManifest.xml:29:5-20
 	android:label
 		ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:40:9-41
 	android:supportsRtl
@@ -171,26 +171,26 @@ ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:6
 		ADDED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml:70:13-59
 uses-sdk
 INJECTED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.0.0] C:\Users\Saad\.android\build-cache\b9589c5e30fef1cbc88d25887cdbb007dd3e2f6e\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:recyclerview-v7:25.0.0] C:\Users\Saad\.android\build-cache\b2f036e5c1f51f3de90d799f48c1dbd15ad477e0\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.0.0] C:\Users\Saad\.android\build-cache\b6edaf1a6326d6f14cbad2f704cce7fd47d34f0e\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Saad\.android\build-cache\ac45cf7851e2f368215c4d019827771fabfa9930\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\56e0caa00b08e366a264ac750ff0f060bdedbf6e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\16556622488fa8a32293495be29e82f250f9c12f\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Saad\.android\build-cache\02c3dcfde71c2866c233114852031d29528fd505\output\AndroidManifest.xml:5:5-7:41
 MERGED from [Mp3Ready:page_indecator_library:unspecified] D:\Documents\Android\Mp3Ready\page_indecator_library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
 MERGED from [Mp3Ready:andTinder:unspecified] D:\Documents\Android\Mp3Ready\andTinder\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
 MERGED from [Mp3Ready:view_pager_lib:unspecified] D:\Documents\Android\Mp3Ready\view_pager_lib\build\intermediates\bundles\default\AndroidManifest.xml:5:5-7:41
 MERGED from [Mp3Ready:zlib:unspecified] D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:multidex:1.0.1] C:\Users\Saad\.android\build-cache\ecbaee02fa4f34ca9e7889affd6f08a2d652c078\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-maps:6.5.87] C:\Users\Saad\.android\build-cache\a3aa2d48181945d41d7c2674431d5fc003f2a693\output\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-base:6.5.87] C:\Users\Saad\.android\build-cache\9a3035635efd1bc8510547d16ad4a150a2ac6a26\output\AndroidManifest.xml:18:5-42
-MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Saad\.android\build-cache\a5a98b78c5072a955e18dbb878468b91cae48a94\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Saad\.android\build-cache\fbbba0fa0bdec411d15f9058c32f1e3b881ad39d\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Saad\.android\build-cache\ea218ac54e495f7dbc5580e08cfb197448917c8f\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Saad\.android\build-cache\c158931f18e632e6e10926f3655154e879a181fd\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Saad\.android\build-cache\57a227509e2599176132725d0f6befd7dee47d25\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Saad\.android\build-cache\226d32ecf1b21cbacd1d2578039e1c0a782807c5\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Saad\.android\build-cache\0248eb2bb2b9415e180601647afce1d6fe8f29bc\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Saad\.android\build-cache\9fee8f5b94360a7ceb77bd185f4962299a870a89\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Saad\.android\build-cache\c7a1cbb3d8e3fe9248a147c2c6373903d84deb33\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Saad\.android\build-cache\9949db82c366270da4b519b745470c4fe12f069c\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-maps:6.5.87] C:\Users\Saad\.android\build-cache\987e861d0192196a2d55844cd20403d6da00c6f4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:6.5.87] C:\Users\Saad\.android\build-cache\9f0655791c106ad972439c9f8698798eb4dfc7c3\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\b70d0a54f24f8f946f25080d3252f0afda5be506\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\537baafecb5a91ce2f1bca895d204266b4ed0f0b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\2d691614053175f2023ff59245c9a699568c70be\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\fcc8fa98111bcba1588cb38da3e28ac4423031d5\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\50104423ee4ab73e7b54df5c371e92b70b5767b8\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\7280be41209b3917b3e1d1619072f8b46df97e92\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\4f664f8d4405d8b247a09c666365331f6eb14e73\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\44647bb4077d7bdc71a4daec100a6e6a5225e390\output\AndroidManifest.xml:21:5-23:58
 MERGED from [Mp3Ready:player:unspecified] D:\Documents\Android\Mp3Ready\player\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
 MERGED from [Mp3Ready:player-dash:unspecified] D:\Documents\Android\Mp3Ready\player-dash\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
 MERGED from [Mp3Ready:player-hls:unspecified] D:\Documents\Android\Mp3Ready\player-hls\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
@@ -198,13 +198,30 @@ MERGED from [Mp3Ready:player-smoothstreaming:unspecified] D:\Documents\Android\M
 MERGED from [Mp3Ready:player-ui:unspecified] D:\Documents\Android\Mp3Ready\player-ui\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
 MERGED from [Mp3Ready:player-core:unspecified] D:\Documents\Android\Mp3Ready\player-core\build\intermediates\bundles\default\AndroidManifest.xml:21:5-23:41
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.0.0] C:\Users\Saad\.android\build-cache\b9589c5e30fef1cbc88d25887cdbb007dd3e2f6e\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml
 		INJECTED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml
 		INJECTED from D:\Documents\Android\Mp3Ready\mp3Ready\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\56e0caa00b08e366a264ac750ff0f060bdedbf6e\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\16556622488fa8a32293495be29e82f250f9c12f\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\b70d0a54f24f8f946f25080d3252f0afda5be506\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\537baafecb5a91ce2f1bca895d204266b4ed0f0b\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\2d691614053175f2023ff59245c9a699568c70be\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\fcc8fa98111bcba1588cb38da3e28ac4423031d5\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\50104423ee4ab73e7b54df5c371e92b70b5767b8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\7280be41209b3917b3e1d1619072f8b46df97e92\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\4f664f8d4405d8b247a09c666365331f6eb14e73\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\44647bb4077d7bdc71a4daec100a6e6a5225e390\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Saad\.android\build-cache\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\output\AndroidManifest.xml:26:9-47
 uses-permission#android.permission.LOCATION_HARDWARE
 ADDED from [Mp3Ready:zlib:unspecified] D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\AndroidManifest.xml:18:5-76
 	android:name

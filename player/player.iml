@@ -94,13 +94,13 @@
       <excludeFolder url="file://$MODULE_DIR$/build/outputs" />
       <excludeFolder url="file://$MODULE_DIR$/build/tmp" />
     </content>
-    <orderEntry type="jdk" jdkName="Android API 25 Platform" jdkType="Android SDK" />
+    <orderEntry type="jdk" jdkName="Android API 27 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="player-smoothstreaming" exported="" />
     <orderEntry type="module" module-name="player-hls" exported="" />
     <orderEntry type="module" module-name="player-dash" exported="" />
     <orderEntry type="module" module-name="player-ui" exported="" />
     <orderEntry type="module" module-name="player-core" exported="" />
-    <orderEntry type="library" exported="" name="support-annotations-25.0.0" level="project" />
+    <orderEntry type="library" exported="" name="support-annotations-26.0.0-alpha1" level="project" />
   </component>
 </module>

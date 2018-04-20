@@ -8,7 +8,7 @@ package com.andtinder;
 
 public final class R {
     public static final class attr {
-        public static final int orientation = 0x7f0100b2;
+        public static final int orientation = 0x7f0100df;
     }
     public static final class color {
         public static final int card_bg = 0x7f0d001e;
@@ -19,38 +19,38 @@ public final class R {
         public static final int activity_vertical_margin = 0x7f0b0007;
     }
     public static final class drawable {
-        public static final int bg_selector = 0x7f02006e;
-        public static final int camera = 0x7f020076;
-        public static final int card_bg = 0x7f020077;
-        public static final int card_scatter = 0x7f020079;
-        public static final int cats = 0x7f02007a;
-        public static final int dislike = 0x7f0200b0;
-        public static final int heart = 0x7f0200c7;
-        public static final int ic_launcher = 0x7f0200d4;
-        public static final int ic_like = 0x7f0200d6;
-        public static final int like = 0x7f0200ee;
-        public static final int people = 0x7f020121;
-        public static final int picture1 = 0x7f02012e;
-        public static final int picture2 = 0x7f02012f;
-        public static final int picture3 = 0x7f020130;
-        public static final int slideshow = 0x7f020165;
+        public static final int bg_selector = 0x7f020070;
+        public static final int camera = 0x7f020078;
+        public static final int card_bg = 0x7f020079;
+        public static final int card_scatter = 0x7f02007b;
+        public static final int cats = 0x7f02007c;
+        public static final int dislike = 0x7f0200b4;
+        public static final int heart = 0x7f0200cb;
+        public static final int ic_launcher = 0x7f0200d8;
+        public static final int ic_like = 0x7f0200da;
+        public static final int like = 0x7f0200f2;
+        public static final int people = 0x7f020125;
+        public static final int picture1 = 0x7f020132;
+        public static final int picture2 = 0x7f020133;
+        public static final int picture3 = 0x7f020134;
+        public static final int slideshow = 0x7f020169;
     }
     public static final class id {
-        public static final int btn_sep_1 = 0x7f0e0149;
-        public static final int btn_sep_2 = 0x7f0e014a;
-        public static final int description = 0x7f0e0147;
-        public static final int disordered = 0x7f0e003e;
-        public static final int divider_bottom = 0x7f0e0145;
-        public static final int divider_title = 0x7f0e0144;
-        public static final int global_container = 0x7f0e0143;
-        public static final int image = 0x7f0e0066;
-        public static final int image_1 = 0x7f0e0146;
-        public static final int image_2 = 0x7f0e0148;
-        public static final int ordered = 0x7f0e003f;
-        public static final int title = 0x7f0e006a;
+        public static final int btn_sep_1 = 0x7f0e0154;
+        public static final int btn_sep_2 = 0x7f0e0155;
+        public static final int description = 0x7f0e0152;
+        public static final int disordered = 0x7f0e0048;
+        public static final int divider_bottom = 0x7f0e0150;
+        public static final int divider_title = 0x7f0e014f;
+        public static final int global_container = 0x7f0e014e;
+        public static final int image = 0x7f0e006f;
+        public static final int image_1 = 0x7f0e0151;
+        public static final int image_2 = 0x7f0e0153;
+        public static final int ordered = 0x7f0e0049;
+        public static final int title = 0x7f0e0073;
     }
     public static final class layout {
-        public static final int std_card_inner = 0x7f03005d;
+        public static final int std_card_inner = 0x7f03005e;
     }
     public static final class string {
         public static final int action_settings = 0x7f07004d;
@@ -58,7 +58,7 @@ public final class R {
         public static final int hello_world = 0x7f070053;
     }
     public static final class styleable {
-        public static final int[] CardContainer = { 0x010100af, 0x7f0100b2 };
+        public static final int[] CardContainer = { 0x010100af, 0x7f0100df };
         public static final int CardContainer_android_gravity = 0;
         public static final int CardContainer_orientation = 1;
     }

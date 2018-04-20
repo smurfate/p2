@@ -4,7 +4,7 @@
 
     <uses-sdk
         android:minSdkVersion="15"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="27" />
 
     <instrumentation
         android:name="android.test.InstrumentationTestRunner"
@@ -12,6 +12,10 @@
         android:handleProfiling="false"
         android:label="Tests for com.astuetz.pagerslidingtabstrip.test"
         android:targetPackage="com.astuetz.pagerslidingtabstrip.test" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="26.0.0-alpha1" />
 
     <application>
         <uses-library android:name="android.test.runner" />

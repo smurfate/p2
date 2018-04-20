@@ -1,42 +1,46 @@
 [
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_color_highlight_material.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_color_highlight_material.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_default.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_spinner.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_spinner.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_switch_thumb.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_edittext.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_edittext.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\a5a98b78c5072a955e18dbb878468b91cae48a94\\output\\res\\color-v23\\abc_tint_switch_track.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\cef3fe0f0bb42ea08f8bc8b90f2b7d53ff5160ec\\output\\res\\color-v23\\abc_tint_switch_track.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\b9589c5e30fef1cbc88d25887cdbb007dd3e2f6e\\output\\res\\color-v23\\design_tint_password_toggle.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\a98100cc5dbefdcf071aebd476f9bf8c5aae2b05\\output\\res\\color-v23\\design_tint_password_toggle.xml"
     }
 ]

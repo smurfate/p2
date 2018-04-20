@@ -8,26 +8,26 @@ package com.astuetz.pagerslidingtabstrip;
 
 public final class R {
     public static final class attr {
-        public static final int pstsDividerColor = 0x7f010148;
-        public static final int pstsDividerPadding = 0x7f01014b;
-        public static final int pstsIndicatorColor = 0x7f010146;
-        public static final int pstsIndicatorHeight = 0x7f010149;
-        public static final int pstsScrollOffset = 0x7f01014d;
-        public static final int pstsShouldExpand = 0x7f01014f;
-        public static final int pstsTabBackground = 0x7f01014e;
-        public static final int pstsTabPaddingLeftRight = 0x7f01014c;
-        public static final int pstsTextAllCaps = 0x7f010150;
-        public static final int pstsUnderlineColor = 0x7f010147;
-        public static final int pstsUnderlineHeight = 0x7f01014a;
+        public static final int pstsDividerColor = 0x7f01015d;
+        public static final int pstsDividerPadding = 0x7f010160;
+        public static final int pstsIndicatorColor = 0x7f01015b;
+        public static final int pstsIndicatorHeight = 0x7f01015e;
+        public static final int pstsScrollOffset = 0x7f010162;
+        public static final int pstsShouldExpand = 0x7f010164;
+        public static final int pstsTabBackground = 0x7f010163;
+        public static final int pstsTabPaddingLeftRight = 0x7f010161;
+        public static final int pstsTextAllCaps = 0x7f010165;
+        public static final int pstsUnderlineColor = 0x7f01015c;
+        public static final int pstsUnderlineHeight = 0x7f01015f;
     }
     public static final class color {
         public static final int background_tab_pressed = 0x7f0d000e;
     }
     public static final class drawable {
-        public static final int background_tab = 0x7f02006a;
+        public static final int background_tab = 0x7f02006c;
     }
     public static final class styleable {
-        public static final int[] PagerSlidingTabStrip = { 0x7f010146, 0x7f010147, 0x7f010148, 0x7f010149, 0x7f01014a, 0x7f01014b, 0x7f01014c, 0x7f01014d, 0x7f01014e, 0x7f01014f, 0x7f010150 };
+        public static final int[] PagerSlidingTabStrip = { 0x7f01015b, 0x7f01015c, 0x7f01015d, 0x7f01015e, 0x7f01015f, 0x7f010160, 0x7f010161, 0x7f010162, 0x7f010163, 0x7f010164, 0x7f010165 };
         public static final int PagerSlidingTabStrip_pstsDividerColor = 2;
         public static final int PagerSlidingTabStrip_pstsDividerPadding = 5;
         public static final int PagerSlidingTabStrip_pstsIndicatorColor = 0;

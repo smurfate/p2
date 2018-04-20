@@ -218,7 +218,7 @@ public class FragmentNavigator {
 
 //        return fr != null? fr:new Fragment();
 //        return fragmentManager.findFragmentById(container);
-        return fragmentManager.getFragments().get(fragmentManager.getBackStackEntryCount());
+        return fragmentManager.getFragments() != null && fragmentManager.getFragments().size()>fragmentManager.getBackStackEntryCount()?fragmentManager.getFragments().get(fragmentManager.getBackStackEntryCount()):null;
     }
 
     public Fragment getCurrentSection(){return currentSection;}
