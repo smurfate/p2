@@ -182,9 +182,9 @@ public class Zfragment extends Fragment {
 		mainActivity.am_i_in_home = false;
 		mainActivity.am_i_in_login = false;
 
-		if (mainActivity.playedSong == null) {
-			mainActivity.mediacontroller_ll.setVisibility(View.GONE);
-		}
+//		if (mainActivity.playedSong == null) {
+//			mainActivity.mediacontroller_ll.setVisibility(View.GONE);
+//		}
 		mainActivity.setSupportProgressBarIndeterminateVisibility(false);
 
 	}

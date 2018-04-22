@@ -3,12 +3,75 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Saad\.android\build-cache\9949db82c366270da4b519b745470c4fe12f069c\output\jars\classes.jar"
+        jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\nineoldandroids-2.4.0.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
-        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_398ccb318ea6b065e40c53b2b66e1aa3328782c8.jar" />
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_f4533707291e42c6e645ac6fc35cdc3526eb5f07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\player-hls\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8130ffefe059b2c0261113a6b06d943e89f4bae2">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_8cf88615c652e668f1c60f861d7c6593ecab8259.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\player\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_34dd5f109653b034b8e6e80ee381aac346db6e5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\httpcore-4.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a6c336d0aa81f2a0221de837f5127ef835b2255c">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\httpcore-4.0.1_8f2136e3fb96ac8395d67c7bbea3aa4922e64e16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\butterknife-7.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\butterknife-7.0.1_7059439ab4d79f6380acd9095db85f756f3d82bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b11ed2129e7ce2c7d9b36dfa99a8183e0de77e7c">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\okhttp-3.6.0_37d2ec00425c93632d03d3068f5baacad7ed166e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\httpclient-4.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c04ce23de70d4f9568faff635edd6b9382177f84">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\httpclient-4.0.1_5cb193d44879762927e614c5b89636bd27dfd552.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Documents\Android\Mp3Ready\andTinder\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4064a0e7195c7b273372c3dfe68a76004186a881">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_8b6ebe11c0c6161af8378ee90d60327075213f1f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -21,39 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Saad\.android\build-cache\9f0655791c106ad972439c9f8698798eb4dfc7c3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_35ac2b997db7655ce9e0e07deff034c0941a9428.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\nineoldandroids-2.4.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0_f4533707291e42c6e645ac6fc35cdc3526eb5f07.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Documents\Android\Mp3Ready\player-ui\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="27.0.3"
         sha1="94beef4c844967aea2c1b970923ec99db4f67c8b">
         <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_56d11f33232480e1ad8beff2944b2559c71222ab.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\player-hls\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="8130ffefe059b2c0261113a6b06d943e89f4bae2">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_8cf88615c652e668f1c60f861d7c6593ecab8259.jar" />
     </item>
     <item
         is-multidex="false"
@@ -84,15 +120,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\player\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="3ecb9d2aad9a03dd8d0914b715cc1fc11d942c6c">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_34dd5f109653b034b8e6e80ee381aac346db6e5d.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Documents\Android\Mp3Ready\player-smoothstreaming\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -117,33 +144,6 @@
         revision="27.0.3"
         sha1="6b89fdf04180248d1a83cc6fcaf2076a3f6f5d1a">
         <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\apache-mime4j-0.6_b4b4fb206655b3ce13b81493ea9c6c7f98c3428a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\httpcore-4.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a6c336d0aa81f2a0221de837f5127ef835b2255c">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\httpcore-4.0.1_8f2136e3fb96ac8395d67c7bbea3aa4922e64e16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\butterknife-7.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\butterknife-7.0.1_7059439ab4d79f6380acd9095db85f756f3d82bc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Saad\.android\build-cache\987e861d0192196a2d55844cd20403d6da00c6f4\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_99ed9607e0e0e6b6429a2b8a902d7bbe8092e9d3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -174,24 +174,6 @@
     </item>
     <item
         is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\okhttp-3.6.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="b11ed2129e7ce2c7d9b36dfa99a8183e0de77e7c">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\okhttp-3.6.0_37d2ec00425c93632d03d3068f5baacad7ed166e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\zlib\build\intermediates\bundles\default\libs\httpclient-4.0.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="c04ce23de70d4f9568faff635edd6b9382177f84">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\httpclient-4.0.1_5cb193d44879762927e614c5b89636bd27dfd552.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="D:\Documents\Android\Mp3Ready\view_pager_lib\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -207,15 +189,6 @@
         revision="27.0.3"
         sha1="05269d17fdf13e04689571ac1ab7582ab25a744d">
         <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_b96c60052e250450f3b0d487038a3b6845966450.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Documents\Android\Mp3Ready\andTinder\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="27.0.3"
-        sha1="4064a0e7195c7b273372c3dfe68a76004186a881">
-        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_8b6ebe11c0c6161af8378ee90d60327075213f1f.jar" />
     </item>
 
 </items>

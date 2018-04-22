@@ -80,7 +80,7 @@ public class Song implements Serializable {
 
 	public String getSongURL()
 	{
-		return HOST_URL+file;
+		return /*HOST_URL+*/file;
 	}
 
 }

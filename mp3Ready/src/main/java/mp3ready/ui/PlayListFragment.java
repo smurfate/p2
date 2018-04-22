@@ -733,7 +733,19 @@ public class PlayListFragment extends Zfragment implements OnScrollListener,
 //			} else {
 //				toast("song is already exist in Recently Played List");
 //			}
-			mainActivity.playSongIfNoCurrentSongExist(selectedSong);
+
+//			mainActivity.playSongIfNoCurrentSongExist(selectedSong);
+
+		List<String> uri = new ArrayList<>();
+		for(int i=0;i<adapter.getCount();i++)
+		{
+			Song s = (Song) adapter.getItemAtPosition(pos);
+			uri.add(s.file);
+		}
+
+		mainActivity.playSongIfNoCurrentSongExist(uri);
+
+
 			// mainActivity.getMp3Urls(selectedSong, null);
 //		}
 	}

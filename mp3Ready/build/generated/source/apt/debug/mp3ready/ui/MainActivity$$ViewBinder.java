@@ -12,12 +12,12 @@ public class MainActivity$$ViewBinder<T extends mp3ready.ui.MainActivity> implem
     target.toolbar = finder.castView(view, 2131624094, "field 'toolbar'");
     view = finder.findRequiredView(source, 2131624096, "field 'fab'");
     target.fab = finder.castView(view, 2131624096, "field 'fab'");
-    view = finder.findRequiredView(source, 2131624097, "field 'fab2'");
-    target.fab2 = finder.castView(view, 2131624097, "field 'fab2'");
+    view = finder.findRequiredView(source, 2131624095, "field 'fab2'");
+    target.fab2 = finder.castView(view, 2131624095, "field 'fab2'");
     view = finder.findRequiredView(source, 2131624092, "field 'drawer'");
     target.drawer = finder.castView(view, 2131624092, "field 'drawer'");
-    view = finder.findRequiredView(source, 2131624095, "field 'playerView'");
-    target.playerView = finder.castView(view, 2131624095, "field 'playerView'");
+    view = finder.findRequiredView(source, 2131624097, "field 'playerView'");
+    target.playerView = finder.castView(view, 2131624097, "field 'playerView'");
     view = finder.findRequiredView(source, 2131624093, "field 'navigationView'");
     target.navigationView = finder.castView(view, 2131624093, "field 'navigationView'");
   }

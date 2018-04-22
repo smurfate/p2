@@ -4698,7 +4698,7 @@ containing a value of this type.
         public static final int expand_activities_button=0x7f0e006e;
         public static final int expanded_menu=0x7f0e0083;
         public static final int fab=0x7f0e00a0;
-        public static final int fab2=0x7f0e00a1;
+        public static final int fab2=0x7f0e009f;
         public static final int fb_login_submit=0x7f0e0111;
         public static final int fill=0x7f0e002c;
         public static final int fill_horizontal=0x7f0e0058;
@@ -4805,7 +4805,7 @@ containing a value of this type.
         public static final int played_song_cover=0x7f0e00ad;
         public static final int player_controller=0x7f0e00a9;
         public static final int player_controllers=0x7f0e00ae;
-        public static final int player_view=0x7f0e009f;
+        public static final int player_view=0x7f0e00a1;
         public static final int playlist_name=0x7f0e0132;
         public static final int playlist_songs_rl=0x7f0e0134;
         public static final int playlist_tracks_num=0x7f0e0133;

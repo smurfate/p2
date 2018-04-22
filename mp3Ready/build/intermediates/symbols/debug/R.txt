@@ -1409,7 +1409,7 @@ int id exo_subtitles 0x7f0e0015
 int id expand_activities_button 0x7f0e006e
 int id expanded_menu 0x7f0e0083
 int id fab 0x7f0e00a0
-int id fab2 0x7f0e00a1
+int id fab2 0x7f0e009f
 int id fb_login_submit 0x7f0e0111
 int id fill 0x7f0e002c
 int id fill_horizontal 0x7f0e0058
@@ -1516,7 +1516,7 @@ int id play_pause 0x7f0e00c5
 int id played_song_cover 0x7f0e00ad
 int id player_controller 0x7f0e00a9
 int id player_controllers 0x7f0e00ae
-int id player_view 0x7f0e009f
+int id player_view 0x7f0e00a1
 int id playlist_name 0x7f0e0132
 int id playlist_songs_rl 0x7f0e0134
 int id playlist_tracks_num 0x7f0e0133

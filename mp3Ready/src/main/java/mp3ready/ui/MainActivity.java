@@ -108,6 +108,7 @@ import com.gitonway.lee.niftynotification.lib.Effects;
 import com.gitonway.lee.niftynotification.lib.NiftyNotificationView;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.ui.AspectRatioFrameLayout;
+import com.google.android.exoplayer2.ui.PlaybackControlView;
 import com.google.android.exoplayer2.ui.SimpleExoPlayerView;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
@@ -216,7 +217,7 @@ public class MainActivity extends AppCompatActivity implements
 	private List<String> invalidUrls;
 	public AppCache mem;
 	private float density;
-	public Song playedSong = null;
+//	public Song playedSong = null;
 	private List<MaterialSection> sectionList;
 	private boolean isCurrentFragmentChild;
 
@@ -416,7 +417,7 @@ public class MainActivity extends AppCompatActivity implements
 
 
 
-		fab.setVisibility(View.GONE);
+//		fab.setVisibility(View.GONE);
 		fab.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
@@ -432,7 +433,7 @@ public class MainActivity extends AppCompatActivity implements
 			}
 		});
 
-		fab2.setVisibility(View.GONE);
+//		fab2.setVisibility(View.GONE);
 		fab2.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
@@ -711,6 +712,22 @@ public class MainActivity extends AppCompatActivity implements
 
         startApp();
 
+
+		playerView.setControllerVisibilityListener(new PlaybackControlView.VisibilityListener() {
+			@Override
+			public void onVisibilityChange(int visibility) {
+				ImageView img = playerView.findViewById(R.id.played_song_cover);
+				if(visibility==View.VISIBLE)
+				{
+					img.setVisibility(View.GONE);
+					toast("visible");
+				}
+				else
+				{
+					toast("gone...");
+				}
+			}
+		});
 
 	}
 
@@ -1966,6 +1983,12 @@ public class MainActivity extends AppCompatActivity implements
 //		});
 	}
 
+	public void playSongIfNoCurrentSongExist(List<String> s) {
+		SimpleExoPlayer player  =  playerBinder.initializePlayer(s);
+		playerView.setPlayer(player);
+
+	}
+
 	/**
 	 * <p>
 	 * check the song that w wanna to play it, if it's downloaded before then we
@@ -2415,11 +2438,11 @@ public class MainActivity extends AppCompatActivity implements
 	public void setSection(MaterialSection section,boolean isChild) {
 		section.select();
 //		drawer.closeDrawer(mLDrawerContainer);
-		if (mediacontroller_ll.getVisibility() == View.GONE) {
-			if (playedSong != null) {
-				mediacontroller_ll.setVisibility(View.VISIBLE);
-			}
-		}
+//		if (mediacontroller_ll.getVisibility() == View.GONE) {
+//			if (playedSong != null) {
+//				mediacontroller_ll.setVisibility(View.VISIBLE);
+//			}
+//		}
 		if (section == currentSection) {
 			return;
 		}
