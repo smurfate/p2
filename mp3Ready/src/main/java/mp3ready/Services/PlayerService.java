@@ -36,14 +36,19 @@ import com.google.android.exoplayer2.upstream.TransferListener;
 import com.google.android.exoplayer2.util.Util;
 import com.zgm.mp3ready.R;
 
+import java.util.ArrayList;
 import java.util.List;
 
+import mp3ready.entities.Song;
 import mp3ready.ui.MainActivity;
 
 public class PlayerService extends Service {
 
     private final IBinder playerBinder = new PlayerBinder();
     private String TAG = getClass().getSimpleName();
+
+    private List<String> uriList;
+    private List<Song> songList;
 
 
     private SimpleExoPlayer player;
@@ -83,8 +88,10 @@ public class PlayerService extends Service {
 
     private SimpleExoPlayer initializePlayer(String uri) {
 
-        mediaSource = buildMediaSource(uri); //new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
+        uriList = new ArrayList<>();
+        uriList.add(uri);
 
+        mediaSource = buildMediaSource(uri); //new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
         player.prepare(mediaSource);
 
 
@@ -93,20 +100,64 @@ public class PlayerService extends Service {
 
     }
 
-    private MediaSource buildMediaSource(String uri) {
-        return new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
-    }
 
     private SimpleExoPlayer initializePlayer(List<String> uri)
     {
+        uriList = new ArrayList<>();
+
         MediaSource[] mediaSources = new MediaSource[uri.size()];
         for (int i = 0; i < uri.size(); i++) {
             mediaSources[i] = buildMediaSource(uri.get(i));
+            uriList.add(uri.get(i));
         }
         mediaSource = mediaSources.length == 1 ? mediaSources[0]
                 : new ConcatenatingMediaSource(mediaSources);
         player.prepare(mediaSource);
         return player;
+    }
+
+    private SimpleExoPlayer initializePlayerSong(Song uri) {
+
+        songList = new ArrayList<>();
+        songList.add(uri);
+
+        mediaSource = buildMediaSource(uri.file); //new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
+        player.prepare(mediaSource);
+
+
+
+        return player;
+
+    }
+
+
+    private SimpleExoPlayer initializePlayerSong(List<Song> uri)
+    {
+        songList = new ArrayList<>();
+
+        MediaSource[] mediaSources = new MediaSource[uri.size()];
+        for (int i = 0; i < uri.size(); i++) {
+            mediaSources[i] = buildMediaSource(uri.get(i).file);
+            songList.add(uri.get(i));
+        }
+        mediaSource = mediaSources.length == 1 ? mediaSources[0]
+                : new ConcatenatingMediaSource(mediaSources);
+        player.prepare(mediaSource);
+        return player;
+    }
+
+    private String getCurrentUri()
+    {
+        return uriList!=null?uriList.get(player.getCurrentWindowIndex()):"";
+    }
+
+    private Song getCurrentSong()
+    {
+        return songList!=null?songList.get(player.getCurrentWindowIndex()):null;
+    }
+
+    private MediaSource buildMediaSource(String uri) {
+        return new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
     }
 
 
@@ -208,6 +259,10 @@ public class PlayerService extends Service {
             return PlayerService.this.initializePlayer(uri);
         }
 
+        public String getCurrentUri()
+        {
+            return PlayerService.this.getCurrentUri();
+        }
 
         public SimpleExoPlayer getPlayer()
         {

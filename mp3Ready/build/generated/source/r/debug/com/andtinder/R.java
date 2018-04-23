@@ -36,16 +36,16 @@ public final class R {
         public static final int slideshow = 0x7f020169;
     }
     public static final class id {
-        public static final int btn_sep_1 = 0x7f0e0154;
-        public static final int btn_sep_2 = 0x7f0e0155;
-        public static final int description = 0x7f0e0152;
+        public static final int btn_sep_1 = 0x7f0e0155;
+        public static final int btn_sep_2 = 0x7f0e0156;
+        public static final int description = 0x7f0e0153;
         public static final int disordered = 0x7f0e0048;
-        public static final int divider_bottom = 0x7f0e0150;
-        public static final int divider_title = 0x7f0e014f;
-        public static final int global_container = 0x7f0e014e;
+        public static final int divider_bottom = 0x7f0e0151;
+        public static final int divider_title = 0x7f0e0150;
+        public static final int global_container = 0x7f0e014f;
         public static final int image = 0x7f0e006f;
-        public static final int image_1 = 0x7f0e0151;
-        public static final int image_2 = 0x7f0e0153;
+        public static final int image_1 = 0x7f0e0152;
+        public static final int image_2 = 0x7f0e0154;
         public static final int ordered = 0x7f0e0049;
         public static final int title = 0x7f0e0073;
     }

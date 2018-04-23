@@ -587,9 +587,11 @@ public class MainActivity extends AppCompatActivity implements
 				"mp3ready.download.services.IDownloadService");
 		downloadIntent.putExtra(MyIntents.TYPE, MyIntents.Types.START);
 		startService(downloadIntent);
+
 //		playListFactory = new PlayListFactory(this);
 //		playListFactory.setCurrnetPLayList(Enums.PLAYLIST_RECENTLY_PLAYED_LIST);
 //		player = new PlayerServiceConnector(this);
+
 		mediacontroller_ll = (LinearLayout) findViewById(R.id.player_controller);
 		mediacontroller_play_pause = (ImageButton) findViewById(R.id.mediacontroller_play_pause);
 		mediacontroller_prev = (ImageButton) findViewById(R.id.mediacontroller_prev);
@@ -716,15 +718,16 @@ public class MainActivity extends AppCompatActivity implements
 		playerView.setControllerVisibilityListener(new PlaybackControlView.VisibilityListener() {
 			@Override
 			public void onVisibilityChange(int visibility) {
-				ImageView img = playerView.findViewById(R.id.played_song_cover);
+				TextView img = playerView.findViewById(R.id.txtFileName);
+				ImageView img2 = playerView.findViewById(R.id.played_song_cover);
 				if(visibility==View.VISIBLE)
 				{
-					img.setVisibility(View.GONE);
-					toast("visible");
+					img.setText(playerBinder.getCurrentUri());
+
 				}
 				else
 				{
-					toast("gone...");
+
 				}
 			}
 		});

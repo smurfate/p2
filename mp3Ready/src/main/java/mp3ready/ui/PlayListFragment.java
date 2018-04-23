@@ -739,7 +739,7 @@ public class PlayListFragment extends Zfragment implements OnScrollListener,
 		List<String> uri = new ArrayList<>();
 		for(int i=0;i<adapter.getCount();i++)
 		{
-			Song s = (Song) adapter.getItemAtPosition(pos);
+			Song s = (Song) adapter.getItemAtPosition(i);
 			uri.add(s.file);
 		}
 
