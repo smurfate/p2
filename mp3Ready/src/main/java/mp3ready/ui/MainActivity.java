@@ -718,16 +718,15 @@ public class MainActivity extends AppCompatActivity implements
 		playerView.setControllerVisibilityListener(new PlaybackControlView.VisibilityListener() {
 			@Override
 			public void onVisibilityChange(int visibility) {
-				TextView img = playerView.findViewById(R.id.txtFileName);
-				ImageView img2 = playerView.findViewById(R.id.played_song_cover);
-				if(visibility==View.VISIBLE)
-				{
-					img.setText(playerBinder.getCurrentUri());
 
-				}
-				else
+				Song song = playerBinder.getCurrentSong();
+				if(song!=null)
 				{
+					TextView img = playerView.findViewById(R.id.txtFileName);
+					ImageView img2 = playerView.findViewById(R.id.played_song_cover);
 
+					img.setText(song.SName);
+					mPicasso.load(song.songcover).into(img2);
 				}
 			}
 		});

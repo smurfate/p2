@@ -112,6 +112,7 @@ public class PlayerService extends Service {
         }
         mediaSource = mediaSources.length == 1 ? mediaSources[0]
                 : new ConcatenatingMediaSource(mediaSources);
+
         player.prepare(mediaSource);
         return player;
     }
@@ -158,6 +159,11 @@ public class PlayerService extends Service {
 
     private MediaSource buildMediaSource(String uri) {
         return new ExtractorMediaSource(Uri.parse(uri), dataSourceFactory, extractorsFactory, null, null);
+    }
+
+    private void gotoFile(int pos)
+    {
+
     }
 
 
@@ -259,9 +265,26 @@ public class PlayerService extends Service {
             return PlayerService.this.initializePlayer(uri);
         }
 
+        public SimpleExoPlayer initializePlayerSong(Song uri)
+        {
+            Log.d(TAG, "initializePlayer: uri:"+uri);
+            return PlayerService.this.initializePlayerSong(uri);
+        }
+
+        public SimpleExoPlayer initializePlayerSong(List<Song> uri)
+        {
+            Log.d(TAG, "initializePlayer: uri:"+uri);
+            return PlayerService.this.initializePlayerSong(uri);
+        }
+
         public String getCurrentUri()
         {
             return PlayerService.this.getCurrentUri();
+        }
+
+        public Song getCurrentSong()
+        {
+            return PlayerService.this.getCurrentSong();
         }
 
         public SimpleExoPlayer getPlayer()

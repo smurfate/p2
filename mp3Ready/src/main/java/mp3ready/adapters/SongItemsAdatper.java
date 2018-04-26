@@ -64,6 +64,10 @@ public abstract class SongItemsAdatper extends BaseAdapter {
 		notifyDataSetChanged();
 	}
 
+	public List<Song> getSongs()
+	{
+		return songs;
+	}
 	static class ViewHolder {
 
 		ImageView iv_songCover;

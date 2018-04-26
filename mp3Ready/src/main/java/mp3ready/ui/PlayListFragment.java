@@ -736,14 +736,15 @@ public class PlayListFragment extends Zfragment implements OnScrollListener,
 
 //			mainActivity.playSongIfNoCurrentSongExist(selectedSong);
 
-		List<String> uri = new ArrayList<>();
+		List<Song> uri = new ArrayList<>();
 		for(int i=0;i<adapter.getCount();i++)
 		{
 			Song s = (Song) adapter.getItemAtPosition(i);
-			uri.add(s.file);
+			uri.add(s);
 		}
 
-		mainActivity.playSongIfNoCurrentSongExist(uri);
+//		mainActivity.playSongIfNoCurrentSongExist(uri);
+		mainActivity.playerBinder.initializePlayerSong(uri);
 
 
 			// mainActivity.getMp3Urls(selectedSong, null);
