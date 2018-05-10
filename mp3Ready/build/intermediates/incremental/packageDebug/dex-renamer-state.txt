@@ -1,4 +1,4 @@
-#Thu Apr 26 14:36:19 EEST 2018
+#Thu May 10 13:32:29 EEST 2018
 base.0=D\:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
 file.0=D\:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

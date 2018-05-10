@@ -275,7 +275,7 @@ public class SongsTinderFragment extends Zfragment implements OnClickListener,
 //					} else {
 //						toast("song is already exist in Recently Played List");
 //					}
-					mainActivity.playURL(song.getSongURL());
+					mainActivity.playerBinder.initializePlayerSong(song);
 				}
 			}
 		};

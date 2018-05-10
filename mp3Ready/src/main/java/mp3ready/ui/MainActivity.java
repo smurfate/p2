@@ -416,8 +416,7 @@ public class MainActivity extends AppCompatActivity implements
 
 
 
-
-//		fab.setVisibility(View.GONE);
+		fab.setVisibility(View.GONE);
 		fab.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
@@ -722,11 +721,19 @@ public class MainActivity extends AppCompatActivity implements
 				Song song = playerBinder.getCurrentSong();
 				if(song!=null)
 				{
-					TextView img = playerView.findViewById(R.id.txtFileName);
+					TextView img = playerView.findViewById(R.id.mediacontroller_file_name);
 					ImageView img2 = playerView.findViewById(R.id.played_song_cover);
 
 					img.setText(song.SName);
 					mPicasso.load(song.songcover).into(img2);
+				}
+
+				if(visibility == 8)
+				{
+					fab2.setVisibility(View.VISIBLE);
+				}else
+				{
+					fab2.setVisibility(View.GONE);
 				}
 			}
 		});
@@ -1967,7 +1974,7 @@ public class MainActivity extends AppCompatActivity implements
 	 *            the song that we wanna to play it
 	 */
 	public void playSongIfNoCurrentSongExist(final Song s) {
-		SimpleExoPlayer player  =  playerBinder.initializePlayer(s.getSongURL());
+		SimpleExoPlayer player  =  playerBinder.initializePlayerSong(s);
 		playerView.setPlayer(player);
 
 //		if (invalidUrls != null && invalidUrls.size() > 0) {
@@ -2205,7 +2212,7 @@ public class MainActivity extends AppCompatActivity implements
 	 *            the song that we wanna to play it
 	 */
 	public void playSong(final Song s) {
-		SimpleExoPlayer player  =  playerBinder.initializePlayer(s.getSongURL());
+		SimpleExoPlayer player  =  playerBinder.initializePlayerSong(s);
 		playerView.setPlayer(player);
 
 //		if (player == null) {
@@ -2537,6 +2544,8 @@ public class MainActivity extends AppCompatActivity implements
 			playerBinder = (PlayerService.PlayerBinder) service;
 
 			playerView.setPlayer(playerBinder.getPlayer());
+			playerView.hideController();
+
 //			binder
 //			mService = binder.getService();
 //			mBound = true;

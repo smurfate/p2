@@ -744,7 +744,8 @@ public class PlayListFragment extends Zfragment implements OnScrollListener,
 		}
 
 //		mainActivity.playSongIfNoCurrentSongExist(uri);
-		mainActivity.playerBinder.initializePlayerSong(uri);
+		mainActivity.playerBinder.initializePlayerSong(uri,pos);
+
 
 
 			// mainActivity.getMp3Urls(selectedSong, null);

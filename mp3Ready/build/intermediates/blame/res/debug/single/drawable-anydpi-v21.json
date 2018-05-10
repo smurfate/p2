@@ -25,15 +25,27 @@
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\e98486f0cbf5b40c11023a10f9a830731ed5e3bc\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\fa01155f4bda7c47cd385f693529eeb196228cd2\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml",
         "source": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search_black_24dp.xml"
     },
     {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml"
+    },
+    {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_pause.xml",
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_controls_pause.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_repeat_off.xml",
@@ -41,7 +53,7 @@
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
-        "source": "C:\\Users\\Saad\\.android\\build-cache\\e98486f0cbf5b40c11023a10f9a830731ed5e3bc\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+        "source": "C:\\Users\\Saad\\.android\\build-cache\\fa01155f4bda7c47cd385f693529eeb196228cd2\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\exo_controls_repeat_one.xml",

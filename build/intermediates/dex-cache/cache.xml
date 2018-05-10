@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\Saad\.android\build-cache\c42249539962c5ae31d792cc9d6080170f7c1f89\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_60afc87d4a9edd8bf369602a5b34ae37b6b5fa0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\nineoldandroids-2.4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -39,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Saad\.android\build-cache\12d5d32b10e74a9c1a3c326f73ba298d882d8497\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a75b29dc51b364df032af8bcfcad7e54ccfda28d">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_5169064b19ecacf5183fc4f9fc21fe40ce117044.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Documents\Android\Mp3Ready\mp3Ready\libs\butterknife-7.0.1.jar"
         jumboMode="false"
         optimize="true"
@@ -72,6 +90,15 @@
         revision="27.0.3"
         sha1="4064a0e7195c7b273372c3dfe68a76004186a881">
         <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_8b6ebe11c0c6161af8378ee90d60327075213f1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Saad\.android\build-cache\20e73468758d8d75026a86be2586b6d7a5e42bc1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="D:\Documents\Android\Mp3Ready\mp3Ready\build\intermediates\pre-dexed\debug\classes_dfdbd87beec24841e56ab6808b2cb1ed058897dc.jar" />
     </item>
     <item
         is-multidex="false"

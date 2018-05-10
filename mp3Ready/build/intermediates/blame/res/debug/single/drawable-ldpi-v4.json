@@ -12,6 +12,18 @@
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\exo_controls_play.png"
     },
     {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_media_action_repeat_one.png",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\exo_media_action_repeat_one.png"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_media_action_repeat_off.png",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\exo_media_action_repeat_off.png"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_media_action_repeat_all.png",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\exo_media_action_repeat_all.png"
+    },
+    {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\mp3Ready\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\exo_controls_repeat_one.png",
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-ldpi-v4\\exo_controls_repeat_one.png"
     },

@@ -12,12 +12,14 @@ import android.os.IBinder;
 import android.support.annotation.IntDef;
 import android.support.v4.app.RemoteInput;
 import android.support.v4.app.TaskStackBuilder;
+import android.support.v4.media.session.MediaSessionCompat;
 import android.support.v7.app.NotificationCompat;
 import android.util.Log;
 import android.view.View;
 import android.widget.Toast;
 
 import com.google.android.exoplayer2.ExoPlayerFactory;
+import com.google.android.exoplayer2.Player;
 import com.google.android.exoplayer2.SimpleExoPlayer;
 import com.google.android.exoplayer2.extractor.DefaultExtractorsFactory;
 import com.google.android.exoplayer2.extractor.ExtractorsFactory;
@@ -144,6 +146,25 @@ public class PlayerService extends Service {
         mediaSource = mediaSources.length == 1 ? mediaSources[0]
                 : new ConcatenatingMediaSource(mediaSources);
         player.prepare(mediaSource);
+
+        return player;
+    }
+
+    private SimpleExoPlayer initializePlayerSong(List<Song> uri,int index)
+    {
+        songList = new ArrayList<>();
+
+        MediaSource[] mediaSources = new MediaSource[uri.size()];
+        for (int i = 0; i < uri.size(); i++) {
+
+            int c = (i-index) < 0 ? (index - i) : (i-index);
+            mediaSources[i] = buildMediaSource(uri.get(i).file);
+            songList.add(uri.get(i));
+        }
+        mediaSource = mediaSources.length == 1 ? mediaSources[0]
+                : new ConcatenatingMediaSource(mediaSources);
+        player.prepare(mediaSource);
+
         return player;
     }
 
@@ -271,10 +292,12 @@ public class PlayerService extends Service {
             return PlayerService.this.initializePlayerSong(uri);
         }
 
-        public SimpleExoPlayer initializePlayerSong(List<Song> uri)
+        public SimpleExoPlayer initializePlayerSong(List<Song> uri,int songIndex)
         {
             Log.d(TAG, "initializePlayer: uri:"+uri);
-            return PlayerService.this.initializePlayerSong(uri);
+            SimpleExoPlayer player = PlayerService.this.initializePlayerSong(uri);
+            player.seekTo(songIndex,0);
+            return player;
         }
 
         public String getCurrentUri()

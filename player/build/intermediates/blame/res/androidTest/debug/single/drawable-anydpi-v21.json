@@ -12,12 +12,24 @@
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_controls_rewind.xml"
     },
     {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_one.xml"
+    },
+    {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_controls_shuffle.xml",
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_controls_shuffle.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_controls_fastforward.xml",
         "source": "D:\\Documents\\Android\\Mp3Ready\\player-ui\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_controls_fastforward.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_off.xml"
+    },
+    {
+        "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml",
+        "source": "D:\\Documents\\Android\\Mp3Ready\\player-mediasession\\build\\intermediates\\bundles\\default\\res\\drawable-anydpi-v21\\exo_media_action_repeat_all.xml"
     },
     {
         "merged": "D:\\Documents\\Android\\Mp3Ready\\player\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-anydpi-v21\\exo_controls_next.xml",
